@@ -1,28 +1,132 @@
 [
   {
-    "name": "2023-Segments 1,2,3,4,6",
-    "date": "October 1, 2023",
-    "managingAgency": "US Forest Service",
+    "name": "2023-Shaver Lake Understory",
+    "date": "October 2, 2023",
+    "managingAgency": "Southern California Edison",
     "burnType": "Underburn",
-    "acres": 300,
+    "acres": 400,
     "status": "Approved",
-    "approvedOn": "Sat Sep 30, 2023 @ 2:53 PM",
+    "approvedOn": "Sun Oct 01, 2023 @ 2:27 PM",
     "coordinates": [
-      -118.972035,
-      36.715202
+      -119.288965,
+      37.107236
     ]
   },
   {
-    "name": "2023-Segments 1,2,3,4,6",
-    "date": "October 1, 2023",
+    "name": "Fallen Leaf HT 172",
+    "date": "October 2, 2023",
     "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 300,
+    "burnType": "Hand Pile",
+    "acres": 10,
     "status": "Approved",
-    "approvedOn": "Sat Sep 30, 2023 @ 3:00 PM",
+    "approvedOn": "Mon Oct 02, 2023 @ 8:01 AM",
     "coordinates": [
-      -118.972035,
-      36.715202
+      -120.051608,
+      38.890627
+    ]
+  },
+  {
+    "name": "Long Canyon North Unit",
+    "date": "October 2, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 100,
+    "status": "Approved",
+    "approvedOn": "Fri Sep 29, 2023 @ 12:19 PM",
+    "coordinates": [
+      -120.66014602564204,
+      35.170370821204806
+    ]
+  },
+  {
+    "name": "Pile Burn All ",
+    "date": "October 2, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Fri Sep 29, 2023 @ 1:59 PM",
+    "coordinates": [
+      -118.19376210246087,
+      36.8933778469916
+    ]
+  },
+  {
+    "name": "Unit 1 - Broadcast",
+    "date": "October 2, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 4.98,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 01, 2023 @ 1:36 PM",
+    "coordinates": [
+      -120.97305,
+      39.06715
+    ]
+  },
+  {
+    "name": "Unit 2 - Broadcast",
+    "date": "October 2, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 7.24,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 01, 2023 @ 1:36 PM",
+    "coordinates": [
+      -120.97326,
+      39.067107
+    ]
+  },
+  {
+    "name": "Unit 3- Broadcast",
+    "date": "October 2, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 5.9,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 01, 2023 @ 1:36 PM",
+    "coordinates": [
+      -120.97053,
+      39.06707
+    ]
+  },
+  {
+    "name": "Unit 6 - Broadcast",
+    "date": "October 2, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 3,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 01, 2023 @ 1:36 PM",
+    "coordinates": [
+      -120.97339,
+      39.06471
+    ]
+  },
+  {
+    "name": "Yellow",
+    "date": "October 2, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 02, 2023 @ 9:46 AM",
+    "coordinates": [
+      -121.29696,
+      40.15567
+    ]
+  },
+  {
+    "name": "Yosemite Valley ",
+    "date": "October 2, 2023",
+    "managingAgency": "National Park Service",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 02, 2023 @ 10:22 AM",
+    "coordinates": [
+      -119.576149,
+      37.74552849
     ]
   }
 ]
