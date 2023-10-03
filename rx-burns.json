@@ -1,132 +1,171 @@
 [
   {
+    "name": "2023-Brewer Oak Pile RX",
+    "date": "October 3, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 02, 2023 @ 3:11 PM",
+    "coordinates": [
+      -122.93656800875972,
+      39.833910698684136
+    ]
+  },
+  {
     "name": "2023-Shaver Lake Understory",
-    "date": "October 2, 2023",
+    "date": "October 3, 2023",
     "managingAgency": "Southern California Edison",
     "burnType": "Underburn",
     "acres": 400,
     "status": "Approved",
-    "approvedOn": "Sun Oct 01, 2023 @ 2:27 PM",
+    "approvedOn": "Mon Oct 02, 2023 @ 4:34 PM",
     "coordinates": [
       -119.288965,
       37.107236
     ]
   },
   {
-    "name": "Fallen Leaf HT 172",
-    "date": "October 2, 2023",
+    "name": "2023-Snow Basin Pile RX",
+    "date": "October 3, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 10,
     "status": "Approved",
-    "approvedOn": "Mon Oct 02, 2023 @ 8:01 AM",
+    "approvedOn": "Mon Oct 02, 2023 @ 2:37 PM",
+    "coordinates": [
+      -122.86318845777896,
+      39.723593725087596
+    ]
+  },
+  {
+    "name": "Fallen Leaf HT 172",
+    "date": "October 3, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 02, 2023 @ 3:35 PM",
     "coordinates": [
       -120.051608,
       38.890627
     ]
   },
   {
-    "name": "Long Canyon North Unit",
-    "date": "October 2, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 100,
+    "name": "Fallen Leaf HT 172",
+    "date": "October 3, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 10,
     "status": "Approved",
-    "approvedOn": "Fri Sep 29, 2023 @ 12:19 PM",
+    "approvedOn": "Mon Oct 02, 2023 @ 4:42 PM",
     "coordinates": [
-      -120.66014602564204,
-      35.170370821204806
+      -120.051608,
+      38.890627
+    ]
+  },
+  {
+    "name": "Ocean Song",
+    "date": "October 3, 2023",
+    "managingAgency": "Audubon Canyon Ranch",
+    "burnType": "Underburn",
+    "acres": 30.34,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 02, 2023 @ 8:27 AM",
+    "coordinates": [
+      -123.0263,
+      38.4009
     ]
   },
   {
     "name": "Pile Burn All ",
-    "date": "October 2, 2023",
+    "date": "October 3, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Patrol",
-    "approvedOn": "Fri Sep 29, 2023 @ 1:59 PM",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 02, 2023 @ 2:53 PM",
     "coordinates": [
       -118.19376210246087,
       36.8933778469916
     ]
   },
   {
-    "name": "Unit 1 - Broadcast",
-    "date": "October 2, 2023",
+    "name": "Pilot Peak Lookout FR",
+    "date": "October 3, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
-    "acres": 4.98,
+    "acres": 6,
     "status": "Approved",
-    "approvedOn": "Sun Oct 01, 2023 @ 1:36 PM",
+    "approvedOn": "Mon Oct 02, 2023 @ 3:35 PM",
     "coordinates": [
-      -120.97305,
-      39.06715
+      -121.02972,
+      38.81832
     ]
   },
   {
-    "name": "Unit 2 - Broadcast",
-    "date": "October 2, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 7.24,
-    "status": "Approved",
-    "approvedOn": "Sun Oct 01, 2023 @ 1:36 PM",
-    "coordinates": [
-      -120.97326,
-      39.067107
-    ]
-  },
-  {
-    "name": "Unit 3- Broadcast",
-    "date": "October 2, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 5.9,
-    "status": "Approved",
-    "approvedOn": "Sun Oct 01, 2023 @ 1:36 PM",
-    "coordinates": [
-      -120.97053,
-      39.06707
-    ]
-  },
-  {
-    "name": "Unit 6 - Broadcast",
-    "date": "October 2, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 3,
-    "status": "Approved",
-    "approvedOn": "Sun Oct 01, 2023 @ 1:36 PM",
-    "coordinates": [
-      -120.97339,
-      39.06471
-    ]
-  },
-  {
-    "name": "Yellow",
-    "date": "October 2, 2023",
+    "name": "Pit 5 and 6",
+    "date": "October 3, 2023",
     "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 10,
+    "burnType": "Underburn",
+    "acres": 71,
     "status": "Approved",
-    "approvedOn": "Mon Oct 02, 2023 @ 9:46 AM",
+    "approvedOn": "Mon Oct 02, 2023 @ 2:45 PM",
     "coordinates": [
-      -121.29696,
-      40.15567
+      -118.928,
+      37.63
     ]
   },
   {
-    "name": "Yosemite Valley ",
-    "date": "October 2, 2023",
-    "managingAgency": "National Park Service",
-    "burnType": "Hand Pile",
-    "acres": 10,
+    "name": "Unit A",
+    "date": "October 3, 2023",
+    "managingAgency": "Marin County Fire Department",
+    "burnType": "Underburn",
+    "acres": 146,
     "status": "Approved",
-    "approvedOn": "Mon Oct 02, 2023 @ 10:22 AM",
+    "approvedOn": "Tue Oct 03, 2023 @ 7:28 AM",
     "coordinates": [
-      -119.576149,
-      37.74552849
+      -122.601328,
+      38.065889
+    ]
+  },
+  {
+    "name": "Unit E",
+    "date": "October 3, 2023",
+    "managingAgency": "Marin County Fire Department",
+    "burnType": "Underburn",
+    "acres": 52,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 03, 2023 @ 7:29 AM",
+    "coordinates": [
+      -122.623402,
+      38.086796
+    ]
+  },
+  {
+    "name": "Unit F",
+    "date": "October 3, 2023",
+    "managingAgency": "Marin County Fire Department",
+    "burnType": "Underburn",
+    "acres": 35,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 03, 2023 @ 7:29 AM",
+    "coordinates": [
+      -122.628735,
+      38.091004
+    ]
+  },
+  {
+    "name": "West Shore",
+    "date": "October 3, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 100,
+    "status": "Approved",
+    "approvedOn": "Wed Sep 27, 2023 @ 9:43 AM",
+    "coordinates": [
+      -121.1876,
+      40.2017
     ]
   }
 ]
