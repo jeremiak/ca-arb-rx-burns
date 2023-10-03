@@ -1,18 +1,5 @@
 [
   {
-    "name": "2023-Brewer Oak Pile RX",
-    "date": "October 3, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 1,
-    "status": "Approved",
-    "approvedOn": "Mon Oct 02, 2023 @ 3:11 PM",
-    "coordinates": [
-      -122.93656800875972,
-      39.833910698684136
-    ]
-  },
-  {
     "name": "2023-Shaver Lake Understory",
     "date": "October 3, 2023",
     "managingAgency": "Southern California Edison",
@@ -23,19 +10,6 @@
     "coordinates": [
       -119.288965,
       37.107236
-    ]
-  },
-  {
-    "name": "2023-Snow Basin Pile RX",
-    "date": "October 3, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 10,
-    "status": "Approved",
-    "approvedOn": "Mon Oct 02, 2023 @ 2:37 PM",
-    "coordinates": [
-      -122.86318845777896,
-      39.723593725087596
     ]
   },
   {
