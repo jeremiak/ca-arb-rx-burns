@@ -167,5 +167,18 @@
       -121.1876,
       40.2017
     ]
+  },
+  {
+    "name": "Yosemite Valley ",
+    "date": "October 3, 2023",
+    "managingAgency": "National Park Service",
+    "burnType": "Hand Pile",
+    "acres": 30,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 03, 2023 @ 10:31 AM",
+    "coordinates": [
+      -119.576149,
+      37.74552849
+    ]
   }
 ]
