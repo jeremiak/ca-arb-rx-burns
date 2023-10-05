@@ -206,5 +206,18 @@
       -121.1876,
       40.2017
     ]
+  },
+  {
+    "name": "river levee",
+    "date": "October 5, 2023",
+    "managingAgency": "Knights Landing Fire Department",
+    "burnType": "Underburn",
+    "acres": 1.5,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 05, 2023 @ 11:35 AM",
+    "coordinates": [
+      -121.72352549132415,
+      38.80002012361323
+    ]
   }
 ]
