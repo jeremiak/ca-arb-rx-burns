@@ -184,19 +184,6 @@
   {
     "name": "Unit A",
     "date": "October 5, 2023",
-    "managingAgency": "National Park Service",
-    "burnType": "Underburn",
-    "acres": 5.2,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 05, 2023 @ 7:40 AM",
-    "coordinates": [
-      -122.9635,
-      38.0946
-    ]
-  },
-  {
-    "name": "Unit A",
-    "date": "October 5, 2023",
     "managingAgency": "Marin County Fire Department",
     "burnType": "Underburn",
     "acres": 146,
@@ -205,19 +192,6 @@
     "coordinates": [
       -122.601328,
       38.065889
-    ]
-  },
-  {
-    "name": "Unit B",
-    "date": "October 5, 2023",
-    "managingAgency": "National Park Service",
-    "burnType": "Underburn",
-    "acres": 6,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 05, 2023 @ 7:40 AM",
-    "coordinates": [
-      -122.9647,
-      38.0933
     ]
   },
   {
