@@ -1,18 +1,5 @@
 [
   {
-    "name": "100",
-    "date": "October 5, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 147,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 10:41 AM",
-    "coordinates": [
-      -120.233,
-      39.438
-    ]
-  },
-  {
     "name": "2023-Johnson VMP",
     "date": "October 5, 2023",
     "managingAgency": "CAL FIRE",
@@ -69,8 +56,8 @@
     "date": "October 5, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
-    "acres": 99,
-    "status": "Active",
+    "acres": 60,
+    "status": "Patrol",
     "approvedOn": "Wed Oct 04, 2023 @ 10:41 AM",
     "coordinates": [
       -120.22069817531803,
