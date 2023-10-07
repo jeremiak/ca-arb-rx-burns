@@ -1,18 +1,5 @@
 [
   {
-    "name": "2023-Segments 1,2,3,4,6",
-    "date": "October 7, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 300,
-    "status": "Approved",
-    "approvedOn": "Fri Oct 06, 2023 @ 3:04 PM",
-    "coordinates": [
-      -118.972035,
-      36.715202
-    ]
-  },
-  {
     "name": "73",
     "date": "October 7, 2023",
     "managingAgency": "US Forest Service",
