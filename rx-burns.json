@@ -1,72 +1,98 @@
 [
   {
-    "name": "2023-Johnson VMP",
-    "date": "October 5, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 3261,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 2:59 PM",
-    "coordinates": [
-      -120.61526,
-      36.119913
-    ]
-  },
-  {
     "name": "2023-Segments 1,2,3,4,6",
-    "date": "October 5, 2023",
+    "date": "October 7, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 300,
     "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 2:45 PM",
+    "approvedOn": "Fri Oct 06, 2023 @ 3:04 PM",
     "coordinates": [
       -118.972035,
       36.715202
     ]
   },
   {
-    "name": "2023-Shaver Lake Understory",
-    "date": "October 5, 2023",
-    "managingAgency": "Southern California Edison",
+    "name": "73",
+    "date": "October 7, 2023",
+    "managingAgency": "US Forest Service",
     "burnType": "Underburn",
-    "acres": 400,
+    "acres": 128,
     "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 2:49 PM",
+    "approvedOn": "Sat Oct 07, 2023 @ 12:25 PM",
     "coordinates": [
-      -119.288965,
-      37.107236
+      -120.22208912930961,
+      39.42313474109931
     ]
   },
   {
-    "name": "2023-Unit 1",
-    "date": "October 5, 2023",
-    "managingAgency": "CAL FIRE",
+    "name": "Boondocks",
+    "date": "October 7, 2023",
+    "managingAgency": "US Forest Service",
     "burnType": "Underburn",
-    "acres": 600,
+    "acres": 50,
     "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 2:58 PM",
+    "approvedOn": "Fri Oct 06, 2023 @ 8:07 AM",
     "coordinates": [
-      -120.585502,
-      36.127933
+      -121.773991,
+      40.241146
     ]
   },
   {
-    "name": "76",
-    "date": "October 5, 2023",
+    "name": "Butterfly under burn Unit 114",
+    "date": "October 7, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 72,
+    "status": "Patrol",
+    "approvedOn": "Thu Oct 05, 2023 @ 2:14 PM",
+    "coordinates": [
+      -120.98081538725675,
+      40.008999275806396
+    ]
+  },
+  {
+    "name": "Butterfly under burn unit 117",
+    "date": "October 7, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 60,
-    "status": "Patrol",
-    "approvedOn": "Wed Oct 04, 2023 @ 10:41 AM",
+    "status": "Approved",
+    "approvedOn": "Thu Oct 05, 2023 @ 2:14 PM",
     "coordinates": [
-      -120.22069817531803,
-      39.428390462637665
+      -120.99232069512645,
+      40.002471671737176
+    ]
+  },
+  {
+    "name": "Butterfly under burn unit 27",
+    "date": "October 7, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 41,
+    "status": "Active",
+    "approvedOn": "Thu Oct 05, 2023 @ 2:14 PM",
+    "coordinates": [
+      -120.97554636032154,
+      40.005805633643064
+    ]
+  },
+  {
+    "name": "CALFIRE-Howard Forest Broadcast",
+    "date": "October 7, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Underburn",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 05, 2023 @ 3:35 PM",
+    "coordinates": [
+      -123.31296342725058,
+      39.34560844686746
     ]
   },
   {
     "name": "Crook Units 1-4",
-    "date": "October 5, 2023",
+    "date": "October 7, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
     "acres": 100,
@@ -75,136 +101,6 @@
     "coordinates": [
       -120.25447512338332,
       37.88187193348664
-    ]
-  },
-  {
-    "name": "Fallen Leaf HT 172",
-    "date": "October 5, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 10,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 4:14 PM",
-    "coordinates": [
-      -120.051608,
-      38.890627
-    ]
-  },
-  {
-    "name": "Fallen Leaf HT 172",
-    "date": "October 5, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 10,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 4:14 PM",
-    "coordinates": [
-      -120.051608,
-      38.890627
-    ]
-  },
-  {
-    "name": "Grass Flat 692",
-    "date": "October 5, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 82,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 10:01 AM",
-    "coordinates": [
-      -121.007607,
-      39.744618
-    ]
-  },
-  {
-    "name": "Morrow-Dash VMP",
-    "date": "October 5, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 420,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 1:30 PM",
-    "coordinates": [
-      -122.04322498940627,
-      40.648256427792
-    ]
-  },
-  {
-    "name": "Pile Burn All ",
-    "date": "October 5, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Hand Pile",
-    "acres": 2,
-    "status": "Patrol",
-    "approvedOn": "Wed Oct 04, 2023 @ 1:25 PM",
-    "coordinates": [
-      -118.19376210246087,
-      36.8933778469916
-    ]
-  },
-  {
-    "name": "Pit 5 and 6",
-    "date": "October 5, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 128,
-    "status": "Patrol",
-    "approvedOn": "Wed Oct 04, 2023 @ 2:27 PM",
-    "coordinates": [
-      -118.928,
-      37.63
-    ]
-  },
-  {
-    "name": "Studhorse (Units: 1-5)",
-    "date": "October 5, 2023",
-    "managingAgency": "National Park Service",
-    "burnType": "Underburn",
-    "acres": 69,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 5:01 PM",
-    "coordinates": [
-      -119.63695320572616,
-      37.53211418932631
-    ]
-  },
-  {
-    "name": "Unit A",
-    "date": "October 5, 2023",
-    "managingAgency": "Marin County Fire Department",
-    "burnType": "Underburn",
-    "acres": 146,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 05, 2023 @ 7:40 AM",
-    "coordinates": [
-      -122.601328,
-      38.065889
-    ]
-  },
-  {
-    "name": "West Shore",
-    "date": "October 5, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 100,
-    "status": "Approved",
-    "approvedOn": "Wed Sep 27, 2023 @ 9:43 AM",
-    "coordinates": [
-      -121.1876,
-      40.2017
-    ]
-  },
-  {
-    "name": "river levee",
-    "date": "October 5, 2023",
-    "managingAgency": "Knights Landing Fire Department",
-    "burnType": "Underburn",
-    "acres": 1.5,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 05, 2023 @ 11:35 AM",
-    "coordinates": [
-      -121.72352549132415,
-      38.80002012361323
     ]
   }
 ]
