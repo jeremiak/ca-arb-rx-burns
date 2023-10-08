@@ -1,93 +1,80 @@
 [
   {
-    "name": "73",
-    "date": "October 7, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 128,
-    "status": "Patrol",
-    "approvedOn": "Sat Oct 07, 2023 @ 12:25 PM",
-    "coordinates": [
-      -120.22208912930961,
-      39.42313474109931
-    ]
-  },
-  {
-    "name": "Boondocks",
-    "date": "October 7, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Fri Oct 06, 2023 @ 8:07 AM",
-    "coordinates": [
-      -121.773991,
-      40.241146
-    ]
-  },
-  {
-    "name": "Butterfly under burn Unit 114",
-    "date": "October 7, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 72,
-    "status": "Patrol",
-    "approvedOn": "Thu Oct 05, 2023 @ 2:14 PM",
-    "coordinates": [
-      -120.98081538725675,
-      40.008999275806396
-    ]
-  },
-  {
-    "name": "Butterfly under burn unit 117",
-    "date": "October 7, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 60,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 05, 2023 @ 2:14 PM",
-    "coordinates": [
-      -120.99232069512645,
-      40.002471671737176
-    ]
-  },
-  {
-    "name": "Butterfly under burn unit 27",
-    "date": "October 7, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 41,
+    "name": "2023-Modoc Tribe Assist",
+    "date": "October 8, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Unknown",
+    "acres": 336,
     "status": "Active",
-    "approvedOn": "Thu Oct 05, 2023 @ 2:14 PM",
+    "approvedOn": "Tue Oct 03, 2023 @ 1:24 PM",
     "coordinates": [
-      -120.97554636032154,
-      40.005805633643064
+      -121.593,
+      41.9007
     ]
   },
   {
-    "name": "CALFIRE-Howard Forest Broadcast",
-    "date": "October 7, 2023",
-    "managingAgency": "Private Landowner",
+    "name": "2023-Segments 1,2,3,4,6",
+    "date": "October 8, 2023",
+    "managingAgency": "US Forest Service",
     "burnType": "Underburn",
-    "acres": 1,
+    "acres": 300,
     "status": "Approved",
-    "approvedOn": "Thu Oct 05, 2023 @ 3:35 PM",
+    "approvedOn": "Sat Oct 07, 2023 @ 3:10 PM",
     "coordinates": [
-      -123.31296342725058,
-      39.34560844686746
+      -118.972035,
+      36.715202
     ]
   },
   {
-    "name": "Crook Units 1-4",
-    "date": "October 7, 2023",
+    "name": "40/41",
+    "date": "October 8, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 97,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 06, 2023 @ 11:46 AM",
+    "coordinates": [
+      -118.932,
+      37.671
+    ]
+  },
+  {
+    "name": "C-234 Class 6.15.23",
+    "date": "October 8, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
-    "acres": 100,
+    "acres": 150,
     "status": "Approved",
-    "approvedOn": "Wed Oct 04, 2023 @ 11:29 AM",
+    "approvedOn": "Fri Oct 06, 2023 @ 1:21 PM",
     "coordinates": [
-      -120.25447512338332,
-      37.88187193348664
+      -122.55009242147253,
+      40.4482512814277
+    ]
+  },
+  {
+    "name": "D5",
+    "date": "October 8, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 150,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 08, 2023 @ 9:35 AM",
+    "coordinates": [
+      -120.505,
+      39.632
+    ]
+  },
+  {
+    "name": "D6",
+    "date": "October 8, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 87,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 08, 2023 @ 9:35 AM",
+    "coordinates": [
+      -120.512,
+      39.634
     ]
   }
 ]
