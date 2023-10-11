@@ -78,45 +78,6 @@
     ]
   },
   {
-    "name": "Burn Block B, Rx Burn Site 1",
-    "date": "October 11, 2023",
-    "managingAgency": "Marin Municipal Water District ",
-    "burnType": "Underburn",
-    "acres": 4,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 5:48 AM",
-    "coordinates": [
-      -122.613794,
-      37.911325
-    ]
-  },
-  {
-    "name": "Burn Block B, Rx Burn Site 2",
-    "date": "October 11, 2023",
-    "managingAgency": "Marin Municipal Water District ",
-    "burnType": "Underburn",
-    "acres": 23,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 5:48 AM",
-    "coordinates": [
-      -122.616885,
-      37.911086
-    ]
-  },
-  {
-    "name": "Burn Block B, Rx Burn Site 3",
-    "date": "October 11, 2023",
-    "managingAgency": "Marin Municipal Water District ",
-    "burnType": "Underburn",
-    "acres": 7,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 5:48 AM",
-    "coordinates": [
-      -122.615119,
-      37.910284
-    ]
-  },
-  {
     "name": "ECHO 107",
     "date": "October 11, 2023",
     "managingAgency": "US Forest Service",
