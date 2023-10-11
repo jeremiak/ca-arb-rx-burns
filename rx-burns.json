@@ -1,80 +1,262 @@
 [
   {
-    "name": "2023-Modoc Tribe Assist",
-    "date": "October 8, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Unknown",
-    "acres": 336,
+    "name": "2023-Brewer Oak Pile RX",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 1,
     "status": "Active",
-    "approvedOn": "Tue Oct 03, 2023 @ 1:24 PM",
+    "approvedOn": "Tue Oct 10, 2023 @ 11:12 AM",
     "coordinates": [
-      -121.593,
-      41.9007
+      -122.93656800875972,
+      39.833910698684136
     ]
   },
   {
     "name": "2023-Segments 1,2,3,4,6",
-    "date": "October 8, 2023",
+    "date": "October 11, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 300,
     "status": "Approved",
-    "approvedOn": "Sat Oct 07, 2023 @ 3:10 PM",
+    "approvedOn": "Tue Oct 10, 2023 @ 2:22 PM",
     "coordinates": [
       -118.972035,
       36.715202
     ]
   },
   {
-    "name": "40/41",
-    "date": "October 8, 2023",
-    "managingAgency": "US Forest Service",
+    "name": "2023-Shaver Lake Understory",
+    "date": "October 11, 2023",
+    "managingAgency": "Southern California Edison",
     "burnType": "Underburn",
-    "acres": 97,
+    "acres": 400,
     "status": "Approved",
-    "approvedOn": "Fri Oct 06, 2023 @ 11:46 AM",
+    "approvedOn": "Tue Oct 10, 2023 @ 2:20 PM",
     "coordinates": [
-      -118.932,
-      37.671
+      -119.288965,
+      37.107236
     ]
   },
   {
-    "name": "C-234 Class 6.15.23",
-    "date": "October 8, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 150,
+    "name": "Black Rock",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 80,
     "status": "Approved",
-    "approvedOn": "Fri Oct 06, 2023 @ 1:21 PM",
+    "approvedOn": "Wed Oct 11, 2023 @ 12:29 PM",
     "coordinates": [
-      -122.55009242147253,
-      40.4482512814277
+      -122.242,
+      41.85165
     ]
   },
   {
-    "name": "D5",
-    "date": "October 8, 2023",
+    "name": "Burlington 246",
+    "date": "October 11, 2023",
     "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 150,
+    "burnType": "Hand Pile",
+    "acres": 35,
     "status": "Approved",
-    "approvedOn": "Sun Oct 08, 2023 @ 9:35 AM",
+    "approvedOn": "Wed Oct 11, 2023 @ 8:15 AM",
     "coordinates": [
-      -120.505,
-      39.632
+      -120.96865,
+      39.30439
     ]
   },
   {
-    "name": "D6",
-    "date": "October 8, 2023",
+    "name": "Burlington 3B",
+    "date": "October 11, 2023",
     "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 87,
+    "burnType": "Hand Pile",
+    "acres": 55,
     "status": "Approved",
-    "approvedOn": "Sun Oct 08, 2023 @ 9:35 AM",
+    "approvedOn": "Wed Oct 11, 2023 @ 8:16 AM",
     "coordinates": [
-      -120.512,
-      39.634
+      -120.86357,
+      39.30519
+    ]
+  },
+  {
+    "name": "Burn Block B, Rx Burn Site 1",
+    "date": "October 11, 2023",
+    "managingAgency": "Marin Municipal Water District ",
+    "burnType": "Underburn",
+    "acres": 4,
+    "status": "Approved",
+    "approvedOn": "Wed Oct 11, 2023 @ 5:48 AM",
+    "coordinates": [
+      -122.613794,
+      37.911325
+    ]
+  },
+  {
+    "name": "Burn Block B, Rx Burn Site 2",
+    "date": "October 11, 2023",
+    "managingAgency": "Marin Municipal Water District ",
+    "burnType": "Underburn",
+    "acres": 23,
+    "status": "Approved",
+    "approvedOn": "Wed Oct 11, 2023 @ 5:48 AM",
+    "coordinates": [
+      -122.616885,
+      37.911086
+    ]
+  },
+  {
+    "name": "Burn Block B, Rx Burn Site 3",
+    "date": "October 11, 2023",
+    "managingAgency": "Marin Municipal Water District ",
+    "burnType": "Underburn",
+    "acres": 7,
+    "status": "Approved",
+    "approvedOn": "Wed Oct 11, 2023 @ 5:48 AM",
+    "coordinates": [
+      -122.615119,
+      37.910284
+    ]
+  },
+  {
+    "name": "ECHO 107",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 3,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 10, 2023 @ 3:47 PM",
+    "coordinates": [
+      -120.0451044270619,
+      38.8339024967941
+    ]
+  },
+  {
+    "name": "FOREST GLEN #2",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Landing Pile",
+    "acres": 45,
+    "status": "Active",
+    "approvedOn": "Wed Oct 11, 2023 @ 8:19 AM",
+    "coordinates": [
+      -123.325,
+      40.394
+    ]
+  },
+  {
+    "name": "FOREST GLEN #4",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Landing Pile",
+    "acres": 45,
+    "status": "Approved",
+    "approvedOn": "Wed Oct 11, 2023 @ 8:19 AM",
+    "coordinates": [
+      -123.316,
+      40.389
+    ]
+  },
+  {
+    "name": "Fallen Leaf HT 116",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 10, 2023 @ 3:47 PM",
+    "coordinates": [
+      -120.048438,
+      38.896803
+    ]
+  },
+  {
+    "name": "Fallen Leaf HT 172",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 10, 2023 @ 3:47 PM",
+    "coordinates": [
+      -120.051608,
+      38.890627
+    ]
+  },
+  {
+    "name": "French Meadows Hand Piles",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 263,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 10, 2023 @ 4:04 PM",
+    "coordinates": [
+      -120.382659,
+      39.165416
+    ]
+  },
+  {
+    "name": "Lakes Basin- Unit 121",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 12.1,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 10, 2023 @ 3:28 PM",
+    "coordinates": [
+      -120.64685,
+      39.715065
+    ]
+  },
+  {
+    "name": "Pillsbury Homesites",
+    "date": "October 11, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Unknown",
+    "acres": 55,
+    "status": "Approved",
+    "approvedOn": "Wed Oct 11, 2023 @ 8:23 AM",
+    "coordinates": [
+      -122.93902325993368,
+      39.426563737962155
+    ]
+  },
+  {
+    "name": "Track 25",
+    "date": "October 11, 2023",
+    "managingAgency": "US Fish and Wildlife Services",
+    "burnType": "Underburn",
+    "acres": 20,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 10, 2023 @ 9:12 AM",
+    "coordinates": [
+      -122.17582322212513,
+      39.40267919558961
+    ]
+  },
+  {
+    "name": "Track 39",
+    "date": "October 11, 2023",
+    "managingAgency": "US Fish and Wildlife Services",
+    "burnType": "Underburn",
+    "acres": 40,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 10, 2023 @ 9:17 AM",
+    "coordinates": [
+      -122.1717608617306,
+      39.37891563970858
+    ]
+  },
+  {
+    "name": "WIlder Ranch Eucalyptus Loop",
+    "date": "October 11, 2023",
+    "managingAgency": "California State Parks",
+    "burnType": "Underburn",
+    "acres": 180,
+    "status": "Approved",
+    "approvedOn": "Tue Oct 10, 2023 @ 3:30 PM",
+    "coordinates": [
+      -122.098961,
+      36.989117
     ]
   }
 ]
