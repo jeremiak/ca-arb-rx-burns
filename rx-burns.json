@@ -187,7 +187,7 @@
     "managingAgency": "US Fish and Wildlife Services",
     "burnType": "Underburn",
     "acres": 20,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Tue Oct 10, 2023 @ 9:12 AM",
     "coordinates": [
       -122.17582322212513,
@@ -200,7 +200,7 @@
     "managingAgency": "US Fish and Wildlife Services",
     "burnType": "Underburn",
     "acres": 40,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Tue Oct 10, 2023 @ 9:17 AM",
     "coordinates": [
       -122.1717608617306,
