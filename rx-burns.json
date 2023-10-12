@@ -364,16 +364,16 @@
     ]
   },
   {
-    "name": "Sugar Springs",
+    "name": "Usal Redwood SMP 22-55 Piles",
     "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 6,
-    "status": "Active",
-    "approvedOn": "Tue Oct 10, 2023 @ 5:34 PM",
+    "managingAgency": "Private Landowner",
+    "burnType": "Machine Pile",
+    "acres": 11,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 12, 2023 @ 11:47 AM",
     "coordinates": [
-      -122.915788,
-      38.860342
+      -123.4931,
+      39.515
     ]
   },
   {
