@@ -1,25 +1,64 @@
 [
   {
-    "name": "2023-LUR Loaf Lake",
-    "date": "October 12, 2023",
-    "managingAgency": "US Fish and Wildlife Services",
+    "name": "005",
+    "date": "October 13, 2023",
+    "managingAgency": "US Forest Service",
     "burnType": "Underburn",
-    "acres": 492,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 2:19 PM",
+    "acres": 113,
+    "status": "Active",
+    "approvedOn": "Thu Oct 12, 2023 @ 8:11 AM",
     "coordinates": [
-      -120.773936,
-      37.196587
+      -120.70588965593794,
+      39.88155723034817
+    ]
+  },
+  {
+    "name": "17",
+    "date": "October 13, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 55,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 12, 2023 @ 5:46 PM",
+    "coordinates": [
+      -120.964255,
+      39.727481
+    ]
+  },
+  {
+    "name": "2018- Camelot 18/19",
+    "date": "October 13, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 300,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 12, 2023 @ 10:31 AM",
+    "coordinates": [
+      -121.636118,
+      39.622714
+    ]
+  },
+  {
+    "name": "2023-Forked Meadow Prescribed Burn",
+    "date": "October 13, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Underburn",
+    "acres": 45,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 12, 2023 @ 2:10 PM",
+    "coordinates": [
+      -119.171464,
+      37.060372
     ]
   },
   {
     "name": "2023-Segments 1,2,3,4,6",
-    "date": "October 12, 2023",
+    "date": "October 13, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 300,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 2:15 PM",
+    "approvedOn": "Thu Oct 12, 2023 @ 2:08 PM",
     "coordinates": [
       -118.972035,
       36.715202
@@ -27,309 +66,218 @@
   },
   {
     "name": "2023-Shaver Lake Understory",
-    "date": "October 12, 2023",
+    "date": "October 13, 2023",
     "managingAgency": "Southern California Edison",
     "burnType": "Underburn",
     "acres": 400,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 2:15 PM",
+    "approvedOn": "Thu Oct 12, 2023 @ 2:09 PM",
     "coordinates": [
       -119.288965,
       37.107236
     ]
   },
   {
-    "name": "Big Chico Creek Ecological Reserve",
-    "date": "October 12, 2023",
+    "name": "40/41",
+    "date": "October 13, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 110,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 12, 2023 @ 9:45 AM",
+    "coordinates": [
+      -118.932,
+      37.671
+    ]
+  },
+  {
+    "name": "89",
+    "date": "October 13, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 56,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 12, 2023 @ 5:46 PM",
+    "coordinates": [
+      -120.22950626982924,
+      39.422168651849304
+    ]
+  },
+  {
+    "name": "90",
+    "date": "October 13, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 110,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 12, 2023 @ 5:46 PM",
+    "coordinates": [
+      -120.26241690142444,
+      39.41616387936158
+    ]
+  },
+  {
+    "name": "Admin - Shafter Campground",
+    "date": "October 13, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 13, 2023 @ 12:37 PM",
+    "coordinates": [
+      -121.981,
+      41.7099
+    ]
+  },
+  {
+    "name": "Admin - The Pit",
+    "date": "October 13, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 12, 2023 @ 4:38 PM",
+    "coordinates": [
+      -121.957,
+      41.697226
+    ]
+  },
+  {
+    "name": "BCCER Bunr units",
+    "date": "October 13, 2023",
     "managingAgency": "CSU Chico Research Foundation",
     "burnType": "Underburn",
-    "acres": 5,
+    "acres": 0.25,
     "status": "Approved",
-    "approvedOn": "Tue Oct 10, 2023 @ 7:48 AM",
+    "approvedOn": "Fri Oct 13, 2023 @ 12:12 PM",
     "coordinates": [
-      -121.702139,
-      39.845718
-    ]
-  },
-  {
-    "name": "Burn Unit #2",
-    "date": "October 12, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 69,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 12, 2023 @ 6:39 AM",
-    "coordinates": [
-      -122.319245,
-      37.297045
-    ]
-  },
-  {
-    "name": "Burn Unit #3",
-    "date": "October 12, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 91,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 12, 2023 @ 6:38 AM",
-    "coordinates": [
-      -122.320759,
-      37.293773
-    ]
-  },
-  {
-    "name": "Burn Unit #4",
-    "date": "October 12, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 70,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 12, 2023 @ 6:38 AM",
-    "coordinates": [
-      -122.324698,
-      37.296811
+      -121.7020157634645,
+      39.84554310755987
     ]
   },
   {
     "name": "Butte",
-    "date": "October 12, 2023",
+    "date": "October 13, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
-    "acres": 30,
+    "acres": 5,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 5:05 PM",
+    "approvedOn": "Thu Oct 12, 2023 @ 4:38 PM",
     "coordinates": [
       -122.195,
       41.83
     ]
   },
   {
-    "name": "Camp Roberts- Unit 12,22",
-    "date": "October 12, 2023",
-    "managingAgency": "Camp Roberts",
-    "burnType": "Underburn",
-    "acres": 34,
-    "status": "Approved",
-    "approvedOn": "Tue Oct 10, 2023 @ 2:51 PM",
-    "coordinates": [
-      -120.736898,
-      35.79249
-    ]
-  },
-  {
-    "name": "Desert Cold Springs Unit 19",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 20,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:43 PM",
-    "coordinates": [
-      -120.486761,
-      39.010875
-    ]
-  },
-  {
     "name": "Desert Cold Springs Unit 203",
-    "date": "October 12, 2023",
+    "date": "October 13, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Machine Pile",
     "acres": 30,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:42 PM",
+    "approvedOn": "Thu Oct 12, 2023 @ 4:31 PM",
     "coordinates": [
       -120.485936,
       39.004459
     ]
   },
   {
-    "name": "Desert Cold Springs Unit 204",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 28,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:42 PM",
-    "coordinates": [
-      -120.487713,
-      38.99542
-    ]
-  },
-  {
     "name": "Desert Cold Springs Unit 301",
-    "date": "October 12, 2023",
+    "date": "October 13, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Machine Pile",
     "acres": 36,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:43 PM",
+    "approvedOn": "Thu Oct 12, 2023 @ 4:31 PM",
     "coordinates": [
       -120.491925,
       38.993342
     ]
   },
   {
-    "name": "Desert Cold Springs Unit 320-20",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 40,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:43 PM",
-    "coordinates": [
-      -120.472223,
-      38.998692
-    ]
-  },
-  {
-    "name": "ECHO 107",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 3,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 4:15 PM",
-    "coordinates": [
-      -120.0451044270619,
-      38.8339024967941
-    ]
-  },
-  {
     "name": "Fallen Leaf HT 116",
-    "date": "October 12, 2023",
+    "date": "October 13, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 10,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 4:15 PM",
+    "approvedOn": "Thu Oct 12, 2023 @ 4:24 PM",
     "coordinates": [
       -120.048438,
       38.896803
     ]
   },
   {
-    "name": "Fallen Leaf HT 172",
-    "date": "October 12, 2023",
+    "name": "French Meadows Hand Piles",
+    "date": "October 13, 2023",
     "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 10,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 4:14 PM",
+    "burnType": "Machine Pile",
+    "acres": 263,
+    "status": "Active",
+    "approvedOn": "Thu Oct 12, 2023 @ 4:31 PM",
     "coordinates": [
-      -120.051608,
-      38.890627
+      -120.382659,
+      39.165416
     ]
   },
   {
-    "name": "Grass Flat 43",
-    "date": "October 12, 2023",
+    "name": "Grass Flat 21",
+    "date": "October 13, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 15,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 12, 2023 @ 5:46 PM",
+    "coordinates": [
+      -120.967181,
+      39.72629
+    ]
+  },
+  {
+    "name": "Grass Flat 21",
+    "date": "October 13, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
-    "acres": 1,
+    "acres": 25,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:35 PM",
+    "approvedOn": "Thu Oct 12, 2023 @ 5:46 PM",
     "coordinates": [
-      -121.011772,
-      39.731859
+      -120.967181,
+      39.72629
     ]
   },
   {
-    "name": "Grass Flat 888",
-    "date": "October 12, 2023",
+    "name": "Grass Flat 922",
+    "date": "October 13, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Machine Pile",
-    "acres": 90,
+    "acres": 71,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:36 PM",
+    "approvedOn": "Thu Oct 12, 2023 @ 5:46 PM",
     "coordinates": [
-      -120.976586,
-      39.744067
+      -120.969845,
+      39.722498
     ]
   },
   {
-    "name": "Grass Flat 952",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 53,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:36 PM",
-    "coordinates": [
-      -120.98539,
-      39.744564
-    ]
-  },
-  {
-    "name": "Grass Flat 997",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 85,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:36 PM",
-    "coordinates": [
-      -120.987877,
-      39.739738
-    ]
-  },
-  {
-    "name": "Hogback",
-    "date": "October 12, 2023",
-    "managingAgency": "Bureau of Land Management",
+    "name": "Thomas Creek Unit",
+    "date": "October 13, 2023",
+    "managingAgency": "Private Landowner",
     "burnType": "Underburn",
-    "acres": 450,
+    "acres": 11,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 2:31 PM",
+    "approvedOn": "Wed Oct 11, 2023 @ 3:21 PM",
     "coordinates": [
-      -121.45833,
-      40.96667
-    ]
-  },
-  {
-    "name": "Longshanks Unit 72",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 28,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 1:43 PM",
-    "coordinates": [
-      -120.546398,
-      38.955852
-    ]
-  },
-  {
-    "name": "Mowitz 36",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 127,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 7:11 AM",
-    "coordinates": [
-      -120.974289,
-      41.617549
-    ]
-  },
-  {
-    "name": "Pillsbury Homesites",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 45,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 4:02 PM",
-    "coordinates": [
-      -122.93902325993368,
-      39.426563737962155
+      -122.9067179,
+      38.4609013
     ]
   },
   {
     "name": "Usal Redwood SMP 22-55 Piles",
-    "date": "October 12, 2023",
+    "date": "October 13, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Machine Pile",
-    "acres": 11,
+    "acres": 1,
     "status": "Approved",
     "approvedOn": "Thu Oct 12, 2023 @ 11:47 AM",
     "coordinates": [
@@ -339,28 +287,28 @@
   },
   {
     "name": "WIlder Ranch Eucalyptus Loop",
-    "date": "October 12, 2023",
+    "date": "October 13, 2023",
     "managingAgency": "California State Parks",
     "burnType": "Underburn",
-    "acres": 60,
+    "acres": 1,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 4:50 PM",
+    "approvedOn": "Fri Oct 13, 2023 @ 10:23 AM",
     "coordinates": [
       -122.098961,
       36.989117
     ]
   },
   {
-    "name": "Westshore",
-    "date": "October 12, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 40,
+    "name": "Yosemite Valley (Unit: YV-7)",
+    "date": "October 13, 2023",
+    "managingAgency": "National Park Service",
+    "burnType": "Underburn",
+    "acres": 35,
     "status": "Approved",
-    "approvedOn": "Wed Oct 11, 2023 @ 4:02 PM",
+    "approvedOn": "Mon Oct 09, 2023 @ 9:07 PM",
     "coordinates": [
-      -122.99146838337423,
-      39.45627136729051
+      -119.64438,
+      37.722738
     ]
   }
 ]
