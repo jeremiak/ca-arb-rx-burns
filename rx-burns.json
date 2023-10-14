@@ -83,7 +83,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 110,
-    "status": "Approved",
+    "status": "Patrol",
     "approvedOn": "Thu Oct 12, 2023 @ 9:45 AM",
     "coordinates": [
       -118.932,
@@ -169,25 +169,12 @@
     ]
   },
   {
-    "name": "Desert Cold Springs Unit 203",
-    "date": "October 13, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 30,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 12, 2023 @ 4:31 PM",
-    "coordinates": [
-      -120.485936,
-      39.004459
-    ]
-  },
-  {
     "name": "Desert Cold Springs Unit 301",
     "date": "October 13, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Machine Pile",
     "acres": 36,
-    "status": "Approved",
+    "status": "Patrol",
     "approvedOn": "Thu Oct 12, 2023 @ 4:31 PM",
     "coordinates": [
       -120.491925,
