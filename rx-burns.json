@@ -5,7 +5,7 @@
     "managingAgency": "California State Parks",
     "burnType": "Underburn",
     "acres": 16,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Tue Oct 17, 2023 @ 1:46 PM",
     "coordinates": [
       -123.22529010890025,
@@ -18,7 +18,7 @@
     "managingAgency": "California State Parks",
     "burnType": "Underburn",
     "acres": 20,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Tue Oct 17, 2023 @ 1:46 PM",
     "coordinates": [
       -123.23813412296983,
