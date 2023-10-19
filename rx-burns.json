@@ -208,25 +208,12 @@
     ]
   },
   {
-    "name": "Track 3",
-    "date": "October 19, 2023",
-    "managingAgency": "US Fish and Wildlife Services",
-    "burnType": "Underburn",
-    "acres": 74,
-    "status": "Approved",
-    "approvedOn": "Mon Oct 16, 2023 @ 11:20 AM",
-    "coordinates": [
-      -122.09933997681966,
-      39.33778671979919
-    ]
-  },
-  {
     "name": "Track 32",
     "date": "October 19, 2023",
     "managingAgency": "US Fish and Wildlife Services",
     "burnType": "Underburn",
     "acres": 14,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Wed Oct 18, 2023 @ 8:50 AM",
     "coordinates": [
       -122.11540740500233,
@@ -296,19 +283,6 @@
     "coordinates": [
       -121.1876,
       40.2017
-    ]
-  },
-  {
-    "name": "Yosemite Valley (Unit: YV-10)",
-    "date": "October 19, 2023",
-    "managingAgency": "National Park Service",
-    "burnType": "Underburn",
-    "acres": 44,
-    "status": "Approved",
-    "approvedOn": "Tue Oct 17, 2023 @ 11:13 AM",
-    "coordinates": [
-      -119.6277745379879,
-      37.72315638569676
     ]
   }
 ]
