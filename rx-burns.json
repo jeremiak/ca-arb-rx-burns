@@ -1,59 +1,176 @@
 [
   {
-    "name": "2B",
-    "date": "October 19, 2023",
-    "managingAgency": "California State Parks",
+    "name": " Tribal Alliance SMP 23-18 Broadcast",
+    "date": "October 20, 2023",
+    "managingAgency": "Private Landowner",
     "burnType": "Underburn",
-    "acres": 16,
-    "status": "Active",
-    "approvedOn": "Tue Oct 17, 2023 @ 1:46 PM",
-    "coordinates": [
-      -123.22529010890025,
-      38.52837557419765
-    ]
-  },
-  {
-    "name": "3N",
-    "date": "October 19, 2023",
-    "managingAgency": "California State Parks",
-    "burnType": "Underburn",
-    "acres": 20,
-    "status": "Active",
-    "approvedOn": "Tue Oct 17, 2023 @ 1:46 PM",
-    "coordinates": [
-      -123.23813412296983,
-      38.515581011017545
-    ]
-  },
-  {
-    "name": "993",
-    "date": "October 19, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 106,
+    "acres": 7,
     "status": "Approved",
-    "approvedOn": "Thu Oct 19, 2023 @ 8:02 AM",
+    "approvedOn": "Fri Oct 20, 2023 @ 2:32 PM",
     "coordinates": [
-      -120.963721,
-      39.748187
+      -123.095147,
+      39.333719
+    ]
+  },
+  {
+    "name": "013",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 5,
+    "status": "Active",
+    "approvedOn": "Fri Oct 13, 2023 @ 2:01 PM",
+    "coordinates": [
+      -120.725065,
+      39.89024
+    ]
+  },
+  {
+    "name": "2023-Merritt 2023",
+    "date": "October 20, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 2000,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 19, 2023 @ 3:00 PM",
+    "coordinates": [
+      -118.858901,
+      36.192934
+    ]
+  },
+  {
+    "name": "2023-Segments 7,8,9,10,11",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 450,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 19, 2023 @ 2:58 PM",
+    "coordinates": [
+      -118.975651,
+      36.704991
+    ]
+  },
+  {
+    "name": "3",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 809,
+    "status": "Patrol",
+    "approvedOn": "Fri Sep 29, 2023 @ 2:12 PM",
+    "coordinates": [
+      -120.069755,
+      38.221222
+    ]
+  },
+  {
+    "name": "4",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 330,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 8:55 AM",
+    "coordinates": [
+      -120.092858,
+      38.198653
+    ]
+  },
+  {
+    "name": "5",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 144,
+    "status": "Patrol",
+    "approvedOn": "Tue Aug 01, 2023 @ 11:42 AM",
+    "coordinates": [
+      -120.069259,
+      38.26091
+    ]
+  },
+  {
+    "name": "741",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 22,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 19, 2023 @ 4:21 PM",
+    "coordinates": [
+      -120.5886,
+      38.7171
+    ]
+  },
+  {
+    "name": "742",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 6,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 19, 2023 @ 4:21 PM",
+    "coordinates": [
+      -120.5929,
+      38.7125
     ]
   },
   {
     "name": "Amex 9-26-23",
-    "date": "October 19, 2023",
+    "date": "October 20, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
     "acres": 40,
     "status": "Approved",
-    "approvedOn": "Wed Oct 18, 2023 @ 8:14 AM",
+    "approvedOn": "Thu Oct 19, 2023 @ 8:49 AM",
     "coordinates": [
       -121.74142227010203,
       40.66308822518685
     ]
   },
   {
+    "name": "Backbone Unit B",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 300,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 19, 2023 @ 8:47 AM",
+    "coordinates": [
+      -122.43585152103637,
+      40.824217404302104
+    ]
+  },
+  {
+    "name": "Bengard Plot 2",
+    "date": "October 20, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 84.26,
+    "status": "Active",
+    "approvedOn": "Fri Oct 20, 2023 @ 12:03 PM",
+    "coordinates": [
+      -121.5519987,
+      36.6879611
+    ]
+  },
+  {
+    "name": "Butte",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Unknown",
+    "acres": 100,
+    "status": "Approved",
+    "approvedOn": "Wed Oct 18, 2023 @ 6:29 PM",
+    "coordinates": [
+      -122.195,
+      41.83
+    ]
+  },
+  {
     "name": "CAVE 23",
-    "date": "October 19, 2023",
+    "date": "October 20, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Unknown",
     "acres": 100,
@@ -65,89 +182,76 @@
     ]
   },
   {
-    "name": "D4",
-    "date": "October 19, 2023",
-    "managingAgency": "US Forest Service",
+    "name": "East McNears Unit",
+    "date": "October 20, 2023",
+    "managingAgency": "California State Parks",
     "burnType": "Underburn",
-    "acres": 76,
+    "acres": 6,
     "status": "Approved",
-    "approvedOn": "Thu Oct 19, 2023 @ 8:03 AM",
+    "approvedOn": "Fri Oct 20, 2023 @ 5:48 AM",
     "coordinates": [
-      -120.509,
-      39.628
-    ]
-  },
-  {
-    "name": "D6",
-    "date": "October 19, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 87,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 19, 2023 @ 8:02 AM",
-    "coordinates": [
-      -120.512,
-      39.634
+      -122.473708,
+      38.001482
     ]
   },
   {
     "name": "Eastside Lassen Co.",
-    "date": "October 19, 2023",
+    "date": "October 20, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
-    "acres": 197.4,
+    "acres": 322.7,
     "status": "Approved",
-    "approvedOn": "Thu Oct 19, 2023 @ 8:24 AM",
+    "approvedOn": "Thu Oct 19, 2023 @ 3:19 PM",
     "coordinates": [
       -121.2633,
       41.04083
     ]
   },
   {
-    "name": "Grass Flat 884",
-    "date": "October 19, 2023",
+    "name": "Elk Unit C",
+    "date": "October 20, 2023",
     "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 174,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 19, 2023 @ 8:01 AM",
+    "burnType": "Underburn",
+    "acres": 1061,
+    "status": "Active",
+    "approvedOn": "Thu Oct 19, 2023 @ 5:57 PM",
     "coordinates": [
-      -120.96561,
-      39.739269
+      -121.9874,
+      41.363593
     ]
   },
   {
-    "name": "Ignome Oak Grove",
-    "date": "October 19, 2023",
+    "name": "Elk Unit G",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 174,
+    "status": "Active",
+    "approvedOn": "Thu Oct 19, 2023 @ 5:58 PM",
+    "coordinates": [
+      -121.965688,
+      41.352595
+    ]
+  },
+  {
+    "name": "Hopland UC SMP 22-45 Broadcast",
+    "date": "October 20, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Underburn",
-    "acres": 7.8,
+    "acres": 200,
     "status": "Approved",
-    "approvedOn": "Wed Oct 18, 2023 @ 4:17 PM",
+    "approvedOn": "Mon Oct 16, 2023 @ 5:30 PM",
     "coordinates": [
-      -122.622161,
-      38.736723
-    ]
-  },
-  {
-    "name": "McDermott Broadcast",
-    "date": "October 19, 2023",
-    "managingAgency": "UC Berkeley",
-    "burnType": "Underburn",
-    "acres": 40,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 19, 2023 @ 8:02 AM",
-    "coordinates": [
-      -120.67685073186487,
-      39.3854616300773
+      -123.06692295317848,
+      39.0003822218488
     ]
   },
   {
     "name": "North Shore",
-    "date": "October 19, 2023",
+    "date": "October 20, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
-    "acres": 12,
+    "acres": 8,
     "status": "Active",
     "approvedOn": "Tue Oct 17, 2023 @ 1:30 PM",
     "coordinates": [
@@ -156,11 +260,24 @@
     ]
   },
   {
+    "name": "PML VMP 2023",
+    "date": "October 20, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 50,
+    "status": "Approved",
+    "approvedOn": "Wed Oct 18, 2023 @ 3:31 PM",
+    "coordinates": [
+      -120.2121444461446,
+      37.867347973082495
+    ]
+  },
+  {
     "name": "Pioneer Rx Burn",
-    "date": "October 19, 2023",
+    "date": "October 20, 2023",
     "managingAgency": "California State Parks",
     "burnType": "Underburn",
-    "acres": 20,
+    "acres": 19,
     "status": "Approved",
     "approvedOn": "Wed Oct 18, 2023 @ 10:17 AM",
     "coordinates": [
@@ -169,117 +286,169 @@
     ]
   },
   {
-    "name": "Plot 3",
-    "date": "October 19, 2023",
-    "managingAgency": "Santa Barbara County Fire Department",
+    "name": "UC Hopland SMP 17- 27 Broadcast",
+    "date": "October 20, 2023",
+    "managingAgency": "Private Landowner",
     "burnType": "Underburn",
-    "acres": 49,
+    "acres": 200,
     "status": "Approved",
-    "approvedOn": "Wed Oct 18, 2023 @ 5:59 PM",
+    "approvedOn": "Thu Oct 19, 2023 @ 8:18 PM",
     "coordinates": [
-      -120.08679,
-      34.72124
-    ]
-  },
-  {
-    "name": "Plot 6 / Midland West ",
-    "date": "October 19, 2023",
-    "managingAgency": "Santa Barbara County Fire Department",
-    "burnType": "Underburn",
-    "acres": 145,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 18, 2023 @ 5:59 PM",
-    "coordinates": [
-      -120.08665194821802,
-      34.72840104383969
-    ]
-  },
-  {
-    "name": "Plot 7 / Midland East ",
-    "date": "October 19, 2023",
-    "managingAgency": "Santa Barbara County Fire Department",
-    "burnType": "Underburn",
-    "acres": 100,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 18, 2023 @ 5:59 PM",
-    "coordinates": [
-      -120.08169450277937,
-      34.73177290883173
-    ]
-  },
-  {
-    "name": "Track 32",
-    "date": "October 19, 2023",
-    "managingAgency": "US Fish and Wildlife Services",
-    "burnType": "Underburn",
-    "acres": 14,
-    "status": "Active",
-    "approvedOn": "Wed Oct 18, 2023 @ 8:50 AM",
-    "coordinates": [
-      -122.11540740500233,
-      39.29321652644713
+      -123.08624308307957,
+      39.00117409228301
     ]
   },
   {
     "name": "Unit 1",
-    "date": "October 19, 2023",
+    "date": "October 20, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
-    "acres": 65,
-    "status": "Active",
-    "approvedOn": "Wed Oct 18, 2023 @ 1:35 PM",
+    "acres": 25,
+    "status": "Patrol",
+    "approvedOn": "Thu Oct 19, 2023 @ 3:42 PM",
     "coordinates": [
       -121.9249044,
       40.343007
     ]
   },
   {
-    "name": "Unit 59",
-    "date": "October 19, 2023",
-    "managingAgency": "US Forest Service",
+    "name": "Unit 3- Broadcast",
+    "date": "October 20, 2023",
+    "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
-    "acres": 44,
+    "acres": 5.9,
     "status": "Approved",
-    "approvedOn": "Thu Oct 19, 2023 @ 7:39 AM",
+    "approvedOn": "Thu Oct 19, 2023 @ 6:36 PM",
     "coordinates": [
-      -120.5886111,
-      39.05833333
+      -120.97053,
+      39.06707
     ]
   },
   {
-    "name": "Unit 6",
-    "date": "October 19, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 58,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 19, 2023 @ 7:39 AM",
-    "coordinates": [
-      -120.5936111,
-      39.0575
-    ]
-  },
-  {
-    "name": "Usal Redwood SMP 22-55 Piles",
-    "date": "October 19, 2023",
+    "name": "Unit 4",
+    "date": "October 20, 2023",
     "managingAgency": "Private Landowner",
-    "burnType": "Hand Pile",
+    "burnType": "Underburn",
+    "acres": 8.3,
+    "status": "Approved",
+    "approvedOn": "Wed Oct 18, 2023 @ 9:18 AM",
+    "coordinates": [
+      -123.25628192861363,
+      38.663285014602515
+    ]
+  },
+  {
+    "name": "Unit 4 - Broadcast",
+    "date": "October 20, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 12.11,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 19, 2023 @ 6:36 PM",
+    "coordinates": [
+      -120.97094,
+      39.0658
+    ]
+  },
+  {
+    "name": "Unit 5 - Broadcast",
+    "date": "October 20, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 4.4,
+    "status": "Approved",
+    "approvedOn": "Thu Oct 19, 2023 @ 6:36 PM",
+    "coordinates": [
+      -120.97193,
+      39.06474
+    ]
+  },
+  {
+    "name": "Unit A",
+    "date": "October 20, 2023",
+    "managingAgency": "National Park Service",
+    "burnType": "Underburn",
+    "acres": 5.2,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 5:49 AM",
+    "coordinates": [
+      -122.9635,
+      38.0946
+    ]
+  },
+  {
+    "name": "Unit B",
+    "date": "October 20, 2023",
+    "managingAgency": "National Park Service",
+    "burnType": "Underburn",
     "acres": 6,
     "status": "Approved",
-    "approvedOn": "Mon Oct 16, 2023 @ 5:26 PM",
+    "approvedOn": "Fri Oct 20, 2023 @ 5:48 AM",
     "coordinates": [
-      -123.93839272494789,
-      39.928070342685004
+      -122.9647,
+      38.0933
+    ]
+  },
+  {
+    "name": "WS1",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 39,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 8:55 AM",
+    "coordinates": [
+      -120.275,
+      38.38528
+    ]
+  },
+  {
+    "name": "WS2",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 31,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 8:55 AM",
+    "coordinates": [
+      -120.23639,
+      38.41472
+    ]
+  },
+  {
+    "name": "WS3",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 78,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 8:55 AM",
+    "coordinates": [
+      -120.17944,
+      38.20611
+    ]
+  },
+  {
+    "name": "WS4",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 33,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 8:55 AM",
+    "coordinates": [
+      -120.09278,
+      38.25111
     ]
   },
   {
     "name": "West Shore",
-    "date": "October 19, 2023",
+    "date": "October 20, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
-    "acres": 100,
+    "acres": 110,
     "status": "Approved",
-    "approvedOn": "Wed Oct 18, 2023 @ 8:23 AM",
+    "approvedOn": "Thu Oct 19, 2023 @ 8:00 AM",
     "coordinates": [
       -121.1876,
       40.2017
