@@ -117,6 +117,19 @@
     ]
   },
   {
+    "name": "743",
+    "date": "October 20, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 38,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 4:43 PM",
+    "coordinates": [
+      -120.5969,
+      38.7093
+    ]
+  },
+  {
     "name": "Amex 9-26-23",
     "date": "October 20, 2023",
     "managingAgency": "CAL FIRE",
@@ -213,24 +226,11 @@
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 1061,
-    "status": "Active",
+    "status": "Patrol",
     "approvedOn": "Thu Oct 19, 2023 @ 5:57 PM",
     "coordinates": [
       -121.9874,
       41.363593
-    ]
-  },
-  {
-    "name": "Elk Unit G",
-    "date": "October 20, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 174,
-    "status": "Active",
-    "approvedOn": "Thu Oct 19, 2023 @ 5:58 PM",
-    "coordinates": [
-      -121.965688,
-      41.352595
     ]
   },
   {
