@@ -26,6 +26,71 @@
     ]
   },
   {
+    "name": "741",
+    "date": "October 22, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 22,
+    "status": "Patrol",
+    "approvedOn": "Thu Oct 19, 2023 @ 4:21 PM",
+    "coordinates": [
+      -120.5886,
+      38.7171
+    ]
+  },
+  {
+    "name": "742",
+    "date": "October 22, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 6,
+    "status": "Patrol",
+    "approvedOn": "Thu Oct 19, 2023 @ 4:21 PM",
+    "coordinates": [
+      -120.5929,
+      38.7125
+    ]
+  },
+  {
+    "name": "743",
+    "date": "October 22, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 5,
+    "status": "Patrol",
+    "approvedOn": "Fri Oct 20, 2023 @ 4:43 PM",
+    "coordinates": [
+      -120.5969,
+      38.7093
+    ]
+  },
+  {
+    "name": "743",
+    "date": "October 22, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 33,
+    "status": "Patrol",
+    "approvedOn": "Fri Oct 20, 2023 @ 4:43 PM",
+    "coordinates": [
+      -120.5969,
+      38.7093
+    ]
+  },
+  {
+    "name": "751",
+    "date": "October 22, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 29,
+    "status": "Patrol",
+    "approvedOn": "Fri Oct 20, 2023 @ 4:43 PM",
+    "coordinates": [
+      -120.5952,
+      38.7086
+    ]
+  },
+  {
     "name": "Elk",
     "date": "October 22, 2023",
     "managingAgency": "US Forest Service",
