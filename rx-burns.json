@@ -83,7 +83,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 5,
-    "status": "Active",
+    "status": "Patrol",
     "approvedOn": "Mon Oct 23, 2023 @ 7:32 AM",
     "coordinates": [
       -117.511911,
@@ -153,45 +153,6 @@
     "coordinates": [
       -120.78935623168945,
       38.92496195301519
-    ]
-  },
-  {
-    "name": "Green Mountain Block D",
-    "date": "October 23, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 950,
-    "status": "Approved",
-    "approvedOn": "Fri Oct 20, 2023 @ 1:42 PM",
-    "coordinates": [
-      -122.165565,
-      40.761041
-    ]
-  },
-  {
-    "name": "Green Mountain Block E",
-    "date": "October 23, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 300,
-    "status": "Approved",
-    "approvedOn": "Fri Oct 20, 2023 @ 1:41 PM",
-    "coordinates": [
-      -122.178183,
-      40.75896
-    ]
-  },
-  {
-    "name": "Green Mountain Block F",
-    "date": "October 23, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 150,
-    "status": "Approved",
-    "approvedOn": "Fri Oct 20, 2023 @ 1:42 PM",
-    "coordinates": [
-      -122.18565,
-      40.751093
     ]
   },
   {
