@@ -1,124 +1,267 @@
 [
   {
-    "name": "2023-Forked Meadow Prescribed Burn",
-    "date": "October 22, 2023",
-    "managingAgency": "Private Landowner",
+    "name": "2023-LUR Loaf Lake",
+    "date": "October 23, 2023",
+    "managingAgency": "US Fish and Wildlife Services",
     "burnType": "Underburn",
-    "acres": 45,
+    "acres": 492,
     "status": "Approved",
-    "approvedOn": "Sat Oct 21, 2023 @ 1:06 PM",
+    "approvedOn": "Sun Oct 22, 2023 @ 1:02 PM",
     "coordinates": [
-      -119.171464,
-      37.060372
+      -120.773936,
+      37.196587
     ]
   },
   {
     "name": "2023-Segments 7,8,9,10,11",
-    "date": "October 22, 2023",
+    "date": "October 23, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 450,
     "status": "Approved",
-    "approvedOn": "Sat Oct 21, 2023 @ 1:18 PM",
+    "approvedOn": "Sun Oct 22, 2023 @ 1:20 PM",
     "coordinates": [
       -118.975651,
       36.704991
     ]
   },
   {
-    "name": "741",
-    "date": "October 22, 2023",
-    "managingAgency": "US Forest Service",
+    "name": "2023-Unit 1",
+    "date": "October 23, 2023",
+    "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
-    "acres": 22,
-    "status": "Patrol",
-    "approvedOn": "Thu Oct 19, 2023 @ 4:21 PM",
+    "acres": 600,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 22, 2023 @ 1:01 PM",
     "coordinates": [
-      -120.5886,
-      38.7171
+      -120.585502,
+      36.127933
     ]
   },
   {
-    "name": "742",
-    "date": "October 22, 2023",
+    "name": "2217",
+    "date": "October 23, 2023",
     "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 11,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 23, 2023 @ 9:40 AM",
+    "coordinates": [
+      -123.49948,
+      41.48882
+    ]
+  },
+  {
+    "name": "Burn Unit 1",
+    "date": "October 23, 2023",
+    "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
-    "acres": 6,
-    "status": "Patrol",
-    "approvedOn": "Thu Oct 19, 2023 @ 4:21 PM",
+    "acres": 162,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 22, 2023 @ 9:12 PM",
     "coordinates": [
-      -120.5929,
-      38.7125
+      -120.43906150539078,
+      35.135876196593244
     ]
   },
   {
-    "name": "743",
-    "date": "October 22, 2023",
+    "name": "Cabin Meadows",
+    "date": "October 23, 2023",
     "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 5,
-    "status": "Patrol",
-    "approvedOn": "Fri Oct 20, 2023 @ 4:43 PM",
-    "coordinates": [
-      -120.5969,
-      38.7093
-    ]
-  },
-  {
-    "name": "743",
-    "date": "October 22, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 33,
-    "status": "Patrol",
-    "approvedOn": "Fri Oct 20, 2023 @ 4:43 PM",
-    "coordinates": [
-      -120.5969,
-      38.7093
-    ]
-  },
-  {
-    "name": "751",
-    "date": "October 22, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 29,
-    "status": "Patrol",
-    "approvedOn": "Fri Oct 20, 2023 @ 4:43 PM",
-    "coordinates": [
-      -120.5952,
-      38.7086
-    ]
-  },
-  {
-    "name": "Elk",
-    "date": "October 22, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 79,
-    "status": "Patrol",
-    "approvedOn": "Sat Oct 21, 2023 @ 10:23 AM",
-    "coordinates": [
-      -121.981,
-      41.367
-    ]
-  },
-  {
-    "name": "Fox Ridge Area 2(h)",
-    "date": "October 22, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Landing Pile",
+    "burnType": "Hand Pile",
     "acres": 5,
     "status": "Approved",
-    "approvedOn": "Fri Oct 20, 2023 @ 1:14 PM",
+    "approvedOn": "Fri Oct 20, 2023 @ 5:51 PM",
     "coordinates": [
-      -123.8716667,
-      41.72666667
+      -122.60246275539795,
+      41.34757382827793
+    ]
+  },
+  {
+    "name": "District Piles",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 23, 2023 @ 7:32 AM",
+    "coordinates": [
+      -117.511911,
+      33.601502
+    ]
+  },
+  {
+    "name": "District Piles",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 23, 2023 @ 7:32 AM",
+    "coordinates": [
+      -117.511911,
+      33.601502
+    ]
+  },
+  {
+    "name": "Echo 33",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 4,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 23, 2023 @ 7:54 AM",
+    "coordinates": [
+      -120.060568,
+      38.875131
+    ]
+  },
+  {
+    "name": "FOREST GLEN #4",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Landing Pile",
+    "acres": 20,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 10:26 AM",
+    "coordinates": [
+      -123.316,
+      40.389
+    ]
+  },
+  {
+    "name": "FOREST GLEN #7",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Landing Pile",
+    "acres": 21,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 10:27 AM",
+    "coordinates": [
+      -123.312,
+      40.382
+    ]
+  },
+  {
+    "name": "Georgetown Compound",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 30,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 23, 2023 @ 9:15 AM",
+    "coordinates": [
+      -120.78935623168945,
+      38.92496195301519
+    ]
+  },
+  {
+    "name": "Green Mountain Block D",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 950,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 1:42 PM",
+    "coordinates": [
+      -122.165565,
+      40.761041
+    ]
+  },
+  {
+    "name": "Green Mountain Block E",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 300,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 1:41 PM",
+    "coordinates": [
+      -122.178183,
+      40.75896
+    ]
+  },
+  {
+    "name": "Green Mountain Block F",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 150,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 1:42 PM",
+    "coordinates": [
+      -122.18565,
+      40.751093
+    ]
+  },
+  {
+    "name": "Hidden Horse",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 5:51 PM",
+    "coordinates": [
+      -122.9121208190918,
+      41.2188236844443
+    ]
+  },
+  {
+    "name": "Kangaroo Fuel Break",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 25,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 5:51 PM",
+    "coordinates": [
+      -122.63907148910683,
+      41.35053548582994
+    ]
+  },
+  {
+    "name": "Patterson Piles",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 12.4,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 23, 2023 @ 9:40 AM",
+    "coordinates": [
+      -123.509605,
+      41.480977
+    ]
+  },
+  {
+    "name": "Patterson Piles",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 3.6,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 23, 2023 @ 9:40 AM",
+    "coordinates": [
+      -123.495807,
+      41.484525
+    ]
+  },
+  {
+    "name": "Patterson Piles",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 6.5,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 23, 2023 @ 9:40 AM",
+    "coordinates": [
+      -123.510493,
+      41.480694
     ]
   },
   {
     "name": "Pillsbury Homesites",
-    "date": "October 22, 2023",
+    "date": "October 23, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 63,
@@ -130,21 +273,60 @@
     ]
   },
   {
-    "name": "UC Hopland SMP 17- 27 Broadcast",
-    "date": "October 22, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Underburn",
-    "acres": 1,
+    "name": "Red Salmon Site Prep",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 50,
     "status": "Approved",
-    "approvedOn": "Thu Oct 19, 2023 @ 8:20 PM",
+    "approvedOn": "Fri Oct 20, 2023 @ 5:53 PM",
     "coordinates": [
-      -123.08624308307957,
-      39.00117409228301
+      -123.36183617493967,
+      41.19907846055068
+    ]
+  },
+  {
+    "name": "TPFHRS Pattison #5",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Landing Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 23, 2023 @ 7:56 AM",
+    "coordinates": [
+      -123.32118,
+      40.67981
+    ]
+  },
+  {
+    "name": "Unit 3",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 232,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 5:46 PM",
+    "coordinates": [
+      -122.085068,
+      41.614688
+    ]
+  },
+  {
+    "name": "Unit 4",
+    "date": "October 23, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 57,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 20, 2023 @ 5:46 PM",
+    "coordinates": [
+      -122.09845,
+      41.617133
     ]
   },
   {
     "name": "Westshore",
-    "date": "October 22, 2023",
+    "date": "October 23, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 83,
