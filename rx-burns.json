@@ -1,90 +1,38 @@
 [
   {
     "name": "2023-Indian Basin Grove",
-    "date": "October 27, 2023",
+    "date": "October 28, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 443,
     "status": "Approved",
-    "approvedOn": "Thu Oct 26, 2023 @ 12:27 PM",
+    "approvedOn": "Fri Oct 27, 2023 @ 3:49 PM",
     "coordinates": [
       -118.941,
       36.8105
     ]
   },
   {
-    "name": "2023-LUR Check Station Marsh TRB",
-    "date": "October 27, 2023",
-    "managingAgency": "US Fish and Wildlife Services",
-    "burnType": "Underburn",
-    "acres": 156,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 26, 2023 @ 11:17 AM",
-    "coordinates": [
-      -120.788982,
-      37.19426
-    ]
-  },
-  {
-    "name": "2023-Shaver Lake Understory",
-    "date": "October 27, 2023",
-    "managingAgency": "Southern California Edison",
-    "burnType": "Underburn",
-    "acres": 400,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 26, 2023 @ 11:38 AM",
-    "coordinates": [
-      -119.288965,
-      37.107236
-    ]
-  },
-  {
     "name": "Amber",
-    "date": "October 27, 2023",
+    "date": "October 28, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 20,
     "status": "Approved",
-    "approvedOn": "Wed Oct 25, 2023 @ 7:59 AM",
+    "approvedOn": "Wed Oct 25, 2023 @ 7:58 AM",
     "coordinates": [
       -121.383333,
       40.1525
     ]
   },
   {
-    "name": "Echo 33",
-    "date": "October 27, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 4,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 26, 2023 @ 4:07 PM",
-    "coordinates": [
-      -120.060568,
-      38.875131
-    ]
-  },
-  {
-    "name": "Five Cent",
-    "date": "October 27, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 24,
-    "status": "Approved",
-    "approvedOn": "Fri Oct 27, 2023 @ 7:47 AM",
-    "coordinates": [
-      -122.93847009259844,
-      40.75998165008233
-    ]
-  },
-  {
     "name": "Lily Lake 1001",
-    "date": "October 27, 2023",
+    "date": "October 28, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 7,
     "status": "Approved",
-    "approvedOn": "Thu Oct 26, 2023 @ 4:07 PM",
+    "approvedOn": "Fri Oct 27, 2023 @ 2:46 PM",
     "coordinates": [
       -120.042596,
       38.912073
@@ -92,7 +40,7 @@
   },
   {
     "name": "Shamrock SMP 18- 31 Broadcast",
-    "date": "October 27, 2023",
+    "date": "October 28, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Underburn",
     "acres": 200,
@@ -104,34 +52,8 @@
     ]
   },
   {
-    "name": "Sly Park Piles",
-    "date": "October 27, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Hand Pile",
-    "acres": 3,
-    "status": "Approved",
-    "approvedOn": "Thu Oct 26, 2023 @ 4:07 PM",
-    "coordinates": [
-      -120.562982,
-      38.71796
-    ]
-  },
-  {
-    "name": "USFS Mendocino National Forest SMP 21- 34 Piles",
-    "date": "October 27, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Hand Pile",
-    "acres": 20,
-    "status": "Approved",
-    "approvedOn": "Wed Oct 25, 2023 @ 2:57 PM",
-    "coordinates": [
-      -122.988181,
-      39.894549
-    ]
-  },
-  {
     "name": "Unit 1",
-    "date": "October 27, 2023",
+    "date": "October 28, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 275,
