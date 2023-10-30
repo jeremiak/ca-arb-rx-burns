@@ -1,51 +1,246 @@
 [
   {
-    "name": "2023-Indian Basin Grove",
-    "date": "October 28, 2023",
-    "managingAgency": "US Forest Service",
+    "name": "2023-4 South ",
+    "date": "October 30, 2023",
+    "managingAgency": "US Fish and Wildlife Services",
     "burnType": "Underburn",
-    "acres": 443,
+    "acres": 72,
     "status": "Approved",
-    "approvedOn": "Fri Oct 27, 2023 @ 3:49 PM",
+    "approvedOn": "Sun Oct 29, 2023 @ 3:04 PM",
     "coordinates": [
-      -118.941,
-      36.8105
+      -120.779871,
+      37.174975
     ]
   },
   {
-    "name": "Amber",
-    "date": "October 28, 2023",
+    "name": "2023-Crooks Zone 2",
+    "date": "October 30, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 601,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 29, 2023 @ 3:05 PM",
+    "coordinates": [
+      -119.760825,
+      37.363265
+    ]
+  },
+  {
+    "name": "2023-LUR Check Station Marsh TRB",
+    "date": "October 30, 2023",
+    "managingAgency": "US Fish and Wildlife Services",
+    "burnType": "Underburn",
+    "acres": 156,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 29, 2023 @ 3:04 PM",
+    "coordinates": [
+      -120.788982,
+      37.19426
+    ]
+  },
+  {
+    "name": "2023-Sequoia Lake 2023",
+    "date": "October 30, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 146,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 29, 2023 @ 3:05 PM",
+    "coordinates": [
+      -118.986931,
+      36.734788
+    ]
+  },
+  {
+    "name": "2023-Shaver Lake Understory",
+    "date": "October 30, 2023",
+    "managingAgency": "Southern California Edison",
+    "burnType": "Underburn",
+    "acres": 400,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 29, 2023 @ 3:04 PM",
+    "coordinates": [
+      -119.288965,
+      37.107236
+    ]
+  },
+  {
+    "name": "210-30.1",
+    "date": "October 30, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
+    "acres": 8,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 29, 2023 @ 9:28 PM",
+    "coordinates": [
+      -123.5149,
+      41.9774
+    ]
+  },
+  {
+    "name": "210-40.1",
+    "date": "October 30, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 9,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 29, 2023 @ 9:26 PM",
+    "coordinates": [
+      -123.5106,
+      41.9761
+    ]
+  },
+  {
+    "name": "210-46.1",
+    "date": "October 30, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 3,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 29, 2023 @ 9:29 PM",
+    "coordinates": [
+      -123.4895,
+      41.9438
+    ]
+  },
+  {
+    "name": "Burn Unit #4",
+    "date": "October 30, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 100,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 30, 2023 @ 7:54 AM",
+    "coordinates": [
+      -122.324698,
+      37.296811
+    ]
+  },
+  {
+    "name": "Five Cent",
+    "date": "October 30, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 24,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 30, 2023 @ 8:16 AM",
+    "coordinates": [
+      -122.93847009259844,
+      40.75998165008233
+    ]
+  },
+  {
+    "name": "Gowwan Orchard SMP 17- 37 Broadcast",
+    "date": "October 30, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Underburn",
     "acres": 20,
     "status": "Approved",
-    "approvedOn": "Wed Oct 25, 2023 @ 7:58 AM",
+    "approvedOn": "Fri Oct 27, 2023 @ 5:23 PM",
     "coordinates": [
-      -121.383333,
-      40.1525
+      -123.47763301863112,
+      39.08873057418221
+    ]
+  },
+  {
+    "name": "Jesuit Rx",
+    "date": "October 30, 2023",
+    "managingAgency": "Placer County Resource Conservation District",
+    "burnType": "Underburn",
+    "acres": 2.7,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 29, 2023 @ 6:04 PM",
+    "coordinates": [
+      -120.977045,
+      38.995
+    ]
+  },
+  {
+    "name": "Leary Creek Unit 233",
+    "date": "October 30, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Landing Pile",
+    "acres": 30.4,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 30, 2023 @ 8:47 AM",
+    "coordinates": [
+      -123.5483,
+      41.2347
     ]
   },
   {
     "name": "Lily Lake 1001",
-    "date": "October 28, 2023",
+    "date": "October 30, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 7,
     "status": "Approved",
-    "approvedOn": "Fri Oct 27, 2023 @ 2:46 PM",
+    "approvedOn": "Mon Oct 30, 2023 @ 8:13 AM",
     "coordinates": [
       -120.042596,
       38.912073
     ]
   },
   {
+    "name": "Loafer Creek",
+    "date": "October 30, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 100,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 27, 2023 @ 8:45 AM",
+    "coordinates": [
+      -121.446991,
+      39.524965
+    ]
+  },
+  {
+    "name": "North Shore",
+    "date": "October 30, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 11,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 30, 2023 @ 11:43 AM",
+    "coordinates": [
+      -122.3341,
+      41.2923
+    ]
+  },
+  {
+    "name": "PML VMP 2023",
+    "date": "October 30, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 50,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 30, 2023 @ 7:29 AM",
+    "coordinates": [
+      -120.2121444461446,
+      37.867347973082495
+    ]
+  },
+  {
+    "name": "Ranch CFIP",
+    "date": "October 30, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Machine Pile",
+    "acres": 2,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 30, 2023 @ 8:13 AM",
+    "coordinates": [
+      -120.77380823956088,
+      38.56913921172713
+    ]
+  },
+  {
     "name": "Shamrock SMP 18- 31 Broadcast",
-    "date": "October 28, 2023",
+    "date": "October 30, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Underburn",
     "acres": 200,
     "status": "Approved",
-    "approvedOn": "Wed Oct 25, 2023 @ 2:56 PM",
+    "approvedOn": "Fri Oct 27, 2023 @ 5:22 PM",
     "coordinates": [
       -123.43205131847374,
       39.63160375427435
@@ -53,15 +248,106 @@
   },
   {
     "name": "Unit 1",
-    "date": "October 28, 2023",
+    "date": "October 30, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Underburn",
     "acres": 275,
     "status": "Approved",
-    "approvedOn": "Wed Oct 25, 2023 @ 4:35 PM",
+    "approvedOn": "Sun Oct 29, 2023 @ 6:22 AM",
     "coordinates": [
       -119.894,
       37.747
+    ]
+  },
+  {
+    "name": "Unit B",
+    "date": "October 30, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 3.5,
+    "status": "Approved",
+    "approvedOn": "Sun Oct 29, 2023 @ 10:18 PM",
+    "coordinates": [
+      -123.1210144242062,
+      38.50827445738994
+    ]
+  },
+  {
+    "name": "Van Bremer",
+    "date": "October 30, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 160,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 27, 2023 @ 3:35 PM",
+    "coordinates": [
+      -121.808,
+      41.641
+    ]
+  },
+  {
+    "name": "Van Bremmer",
+    "date": "October 30, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 95,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 27, 2023 @ 3:35 PM",
+    "coordinates": [
+      -121.801,
+      41.635
+    ]
+  },
+  {
+    "name": "Van Bremmer",
+    "date": "October 30, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 85,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 27, 2023 @ 3:35 PM",
+    "coordinates": [
+      -121.812,
+      41.634
+    ]
+  },
+  {
+    "name": "Van Bremmer",
+    "date": "October 30, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 197,
+    "status": "Approved",
+    "approvedOn": "Fri Oct 27, 2023 @ 3:36 PM",
+    "coordinates": [
+      -121.814,
+      41.628
+    ]
+  },
+  {
+    "name": "View 88",
+    "date": "October 30, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 30,
+    "status": "Active",
+    "approvedOn": "Mon Oct 30, 2023 @ 8:13 AM",
+    "coordinates": [
+      -120.35671832700467,
+      38.54825043869528
+    ]
+  },
+  {
+    "name": "Wagon Trail - Unit 2",
+    "date": "October 30, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 0.25,
+    "status": "Approved",
+    "approvedOn": "Mon Oct 30, 2023 @ 10:14 AM",
+    "coordinates": [
+      -120.93736,
+      39.09426
     ]
   }
 ]
