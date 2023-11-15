@@ -1,41 +1,639 @@
 [
   {
-    "name": "2023-Camp El-O-Win Prescribed Burn",
-    "date": "November 4, 2023",
-    "managingAgency": "Private Landowner",
+    "name": "1A",
+    "date": "November 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 7:36 AM",
+    "coordinates": [
+      -121.91856369190937,
+      40.34087201800909
+    ]
+  },
+  {
+    "name": "2023-24 Ridgecrest-Broadcast TEBH",
+    "date": "November 15, 2023",
+    "managingAgency": "Moraga-Orinda Fire District",
     "burnType": "Underburn",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:40 AM",
+    "coordinates": [
+      -122.162782,
+      37.834696
+    ]
+  },
+  {
+    "name": "2023-24 Ridgecrest-Piles TEBH",
+    "date": "November 15, 2023",
+    "managingAgency": "Moraga-Orinda Fire District",
+    "burnType": "Hand Pile",
+    "acres": 20,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:40 AM",
+    "coordinates": [
+      -122.162782,
+      37.834696
+    ]
+  },
+  {
+    "name": "2023-Dinkey Properties Piles",
+    "date": "November 15, 2023",
+    "managingAgency": "Southern California Edison",
+    "burnType": "Hand Pile",
+    "acres": 50,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 4:43 PM",
+    "coordinates": [
+      -119.1,
+      37
+    ]
+  },
+  {
+    "name": "2023-Jose Basin Fuel Breaks",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 636,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 4:41 PM",
+    "coordinates": [
+      -119.325582,
+      37.171268
+    ]
+  },
+  {
+    "name": "2023-LUR EBC 24",
+    "date": "November 15, 2023",
+    "managingAgency": "US Fish and Wildlife Services",
+    "burnType": "Underburn",
+    "acres": 296,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 4:25 PM",
+    "coordinates": [
+      -120.783737,
+      37.232847
+    ]
+  },
+  {
+    "name": "2023-Shaver Lake Understory",
+    "date": "November 15, 2023",
+    "managingAgency": "Southern California Edison",
+    "burnType": "Underburn",
+    "acres": 400,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 4:46 PM",
+    "coordinates": [
+      -119.288965,
+      37.107236
+    ]
+  },
+  {
+    "name": "2023-Tennant",
+    "date": "November 15, 2023",
+    "managingAgency": "MDI Forest Products",
+    "burnType": "Unknown",
+    "acres": 100,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 5:39 PM",
+    "coordinates": [
+      -121.91289,
+      41.589543
+    ]
+  },
+  {
+    "name": "219-49.1",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 12,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 5:45 PM",
+    "coordinates": [
+      -123.334,
+      41.8445
+    ]
+  },
+  {
+    "name": "226-59.1",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 19,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 5:49 PM",
+    "coordinates": [
+      -123.4061,
+      41.7922
+    ]
+  },
+  {
+    "name": "Administrative Site -  Alandale ",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Active",
+    "approvedOn": "Tue Nov 14, 2023 @ 2:51 PM",
+    "coordinates": [
+      -116.75203621387482,
+      33.783392035946136
+    ]
+  },
+  {
+    "name": "Amoruso VMP Piles",
+    "date": "November 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Machine Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 8:57 AM",
+    "coordinates": [
+      -120.77662972575666,
+      38.503883776592325
+    ]
+  },
+  {
+    "name": "BCCER Prop Management ",
+    "date": "November 15, 2023",
+    "managingAgency": "CSU Chico Research Foundation",
+    "burnType": "Hand Pile",
+    "acres": 0.5,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:19 AM",
+    "coordinates": [
+      -121.739287,
+      39.742273
+    ]
+  },
+  {
+    "name": "Baldwin",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 104,
+    "status": "Active",
+    "approvedOn": "Tue Nov 14, 2023 @ 2:51 PM",
+    "coordinates": [
+      -116.7733383178711,
+      34.23181584594751
+    ]
+  },
+  {
+    "name": "Base",
+    "date": "November 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 0.5,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 11:29 AM",
+    "coordinates": [
+      -122.71866363149239,
+      38.8336752020556
+    ]
+  },
+  {
+    "name": "Block 2",
+    "date": "November 15, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:42 AM",
+    "coordinates": [
+      -122.686881,
+      38.523198
+    ]
+  },
+  {
+    "name": "Butte",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Unknown",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 5:17 PM",
+    "coordinates": [
+      -122.195,
+      41.83
+    ]
+  },
+  {
+    "name": "Carbonizer",
+    "date": "November 15, 2023",
+    "managingAgency": "Earth Foundries, Inc.",
+    "burnType": "Machine Pile",
+    "acres": 9,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:37 AM",
+    "coordinates": [
+      -122.102868,
+      37.74467
+    ]
+  },
+  {
+    "name": "Carbonizer",
+    "date": "November 15, 2023",
+    "managingAgency": "Earth Foundries, Inc.",
+    "burnType": "Machine Pile",
+    "acres": 3,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 5:15 PM",
+    "coordinates": [
+      -122.102868,
+      37.74467
+    ]
+  },
+  {
+    "name": "Diamond WUI Hand Piles",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 200,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 10:45 PM",
+    "coordinates": [
+      -120.62588755730867,
+      40.32167861607409
+    ]
+  },
+  {
+    "name": "Dixie roadside piles",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 50,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 3:57 PM",
+    "coordinates": [
+      -121.301927,
+      40.212671
+    ]
+  },
+  {
+    "name": "Elkhorn machine pile",
+    "date": "November 15, 2023",
+    "managingAgency": "Crane Mills",
+    "burnType": "Machine Pile",
+    "acres": 90,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:38 AM",
+    "coordinates": [
+      -122.74633697828621,
+      40.07077312929421
+    ]
+  },
+  {
+    "name": "Greater Novato Shaded Fuel Break - Marin Valley",
+    "date": "November 15, 2023",
+    "managingAgency": "Novato Fire Protection District",
+    "burnType": "Hand Pile",
+    "acres": 150,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:42 AM",
+    "coordinates": [
+      -122.529466,
+      38.042015
+    ]
+  },
+  {
+    "name": "Harlan FMZ Machine Piles",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 100,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 5:15 PM",
+    "coordinates": [
+      -122.0444,
+      41.6453
+    ]
+  },
+  {
+    "name": "IRSC Unit 11",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
     "acres": 25,
     "status": "Approved",
-    "approvedOn": "Fri Nov 03, 2023 @ 2:12 PM",
+    "approvedOn": "Tue Nov 14, 2023 @ 5:50 PM",
     "coordinates": [
-      -119.154652,
-      37.048836
+      -123.4395,
+      41.8937
     ]
   },
   {
-    "name": "Brownes Meadows Nov -1",
-    "date": "November 4, 2023",
-    "managingAgency": "Motherlode Prescribed Burn Association",
+    "name": "Low Gap",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
-    "acres": 7,
+    "acres": 16,
     "status": "Approved",
-    "approvedOn": "Thu Nov 02, 2023 @ 3:22 PM",
+    "approvedOn": "Tue Nov 14, 2023 @ 3:58 PM",
     "coordinates": [
-      -120.087597,
-      38.114624
+      -122.96288672864124,
+      40.78620049777828
     ]
   },
   {
-    "name": "Brownes Meadows Nov -1",
-    "date": "November 4, 2023",
-    "managingAgency": "Motherlode Prescribed Burn Association",
-    "burnType": "Underburn",
-    "acres": 7,
+    "name": "Lumgrey Unit 1",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 30,
     "status": "Approved",
-    "approvedOn": "Thu Nov 02, 2023 @ 3:22 PM",
+    "approvedOn": "Tue Nov 14, 2023 @ 5:04 PM",
     "coordinates": [
-      -120.087597,
-      38.114624
+      -122.7834,
+      41.8974
+    ]
+  },
+  {
+    "name": "MF Machine Piles",
+    "date": "November 15, 2023",
+    "managingAgency": "UC Berkeley",
+    "burnType": "Machine Pile",
+    "acres": 20,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 3:11 PM",
+    "coordinates": [
+      -120.656571,
+      38.921578
+    ]
+  },
+  {
+    "name": "Mineral Expansion Hand-piles",
+    "date": "November 15, 2023",
+    "managingAgency": "National Park Service",
+    "burnType": "Hand Pile",
+    "acres": 20,
+    "status": "Approved",
+    "approvedOn": "Mon Nov 13, 2023 @ 1:34 PM",
+    "coordinates": [
+      -121.6041602776594,
+      40.347129257351966
+    ]
+  },
+  {
+    "name": "Mosquito Piles 2023",
+    "date": "November 15, 2023",
+    "managingAgency": "Siller Brothers Inc",
+    "burnType": "Machine Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 8:01 AM",
+    "coordinates": [
+      -120.7053776,
+      38.928537
+    ]
+  },
+  {
+    "name": "North Ramona East (Pamo-Sutherland)",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 15,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 10:46 AM",
+    "coordinates": [
+      -116.882932,
+      33.095331
+    ]
+  },
+  {
+    "name": "Onion",
+    "date": "November 15, 2023",
+    "managingAgency": "Crane Mills",
+    "burnType": "Machine Pile",
+    "acres": 14,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:38 AM",
+    "coordinates": [
+      -122.82127867824687,
+      39.91897620833013
+    ]
+  },
+  {
+    "name": "P Thin Unit 102",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Landing Pile",
+    "acres": 10.1,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 9:54 AM",
+    "coordinates": [
+      -123.5337,
+      40.8407
+    ]
+  },
+  {
+    "name": "P Thin Unit 204",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Landing Pile",
+    "acres": 20.36,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 9:55 AM",
+    "coordinates": [
+      -123.5326,
+      40.834
+    ]
+  },
+  {
+    "name": "Phase 2",
+    "date": "November 15, 2023",
+    "managingAgency": "Higgins Ridge LLC",
+    "burnType": "Machine Pile",
+    "acres": 0.75,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:19 AM",
+    "coordinates": [
+      -121.688799,
+      39.878513
+    ]
+  },
+  {
+    "name": "Pine Flats FY 2023",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 3,
+    "status": "Active",
+    "approvedOn": "Tue Nov 14, 2023 @ 2:50 PM",
+    "coordinates": [
+      -117.84202040806332,
+      34.318998876064256
+    ]
+  },
+  {
+    "name": "Pine Ridge",
+    "date": "November 15, 2023",
+    "managingAgency": "California State Parks",
+    "burnType": "Hand Pile",
+    "acres": 150,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:41 AM",
+    "coordinates": [
+      -121.542898,
+      37.192803
+    ]
+  },
+  {
+    "name": "Quintette Station Piles ",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 3:11 PM",
+    "coordinates": [
+      -120.66239593547344,
+      38.90429541022345
+    ]
+  },
+  {
+    "name": "RIC Unit 8",
+    "date": "November 15, 2023",
+    "managingAgency": "Bureau of Land Management",
+    "burnType": "Hand Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 3:55 PM",
+    "coordinates": [
+      -122.84728351867909,
+      40.59666026735355
+    ]
+  },
+  {
+    "name": "Russell",
+    "date": "November 15, 2023",
+    "managingAgency": "Crane Mills",
+    "burnType": "Underburn",
+    "acres": 8,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 7:38 AM",
+    "coordinates": [
+      -122.7531024506593,
+      39.94193061878562
+    ]
+  },
+  {
+    "name": "Shiloh 2021 Piles",
+    "date": "November 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Machine Pile",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 08, 2023 @ 7:02 AM",
+    "coordinates": [
+      -120.17228,
+      38.068191
+    ]
+  },
+  {
+    "name": "Spud",
+    "date": "November 15, 2023",
+    "managingAgency": "Collins Pine Company",
+    "burnType": "Hand Pile",
+    "acres": 4,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 7:36 AM",
+    "coordinates": [
+      -121.501175,
+      40.303601
+    ]
+  },
+  {
+    "name": "Unit 41,42B",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 27,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 3:46 PM",
+    "coordinates": [
+      -116.425,
+      32.8573
+    ]
+  },
+  {
+    "name": "Unit 42A",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Underburn",
+    "acres": 32,
+    "status": "Active",
+    "approvedOn": "Tue Nov 14, 2023 @ 3:45 PM",
+    "coordinates": [
+      -116.45239,
+      32.8359
+    ]
+  },
+  {
+    "name": "Unit 9",
+    "date": "November 15, 2023",
+    "managingAgency": "Bureau of Land Management",
+    "burnType": "Hand Pile",
+    "acres": 4,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 2:54 PM",
+    "coordinates": [
+      -122.86546041005239,
+      40.691474976883896
+    ]
+  },
+  {
+    "name": "Wagon Trail - Unit 2",
+    "date": "November 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 0.25,
+    "status": "Approved",
+    "approvedOn": "Tue Nov 14, 2023 @ 3:33 PM",
+    "coordinates": [
+      -120.93736,
+      39.09426
+    ]
+  },
+  {
+    "name": "Westshore",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 50,
+    "status": "Approved",
+    "approvedOn": "Thu Nov 09, 2023 @ 2:43 PM",
+    "coordinates": [
+      -122.99146838337423,
+      39.45627136729051
+    ]
+  },
+  {
+    "name": "Whiskeytown Park wide pile Burn",
+    "date": "November 15, 2023",
+    "managingAgency": "National Park Service",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 8:53 AM",
+    "coordinates": [
+      -122.63596476160072,
+      40.661589825600075
+    ]
+  },
+  {
+    "name": "Yellow",
+    "date": "November 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 100,
+    "status": "Approved",
+    "approvedOn": "Wed Nov 15, 2023 @ 8:01 AM",
+    "coordinates": [
+      -120.491541,
+      38.827417
     ]
   }
 ]
