@@ -325,19 +325,6 @@
     ]
   },
   {
-    "name": "Lumgrey Unit 1",
-    "date": "November 15, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 30,
-    "status": "Approved",
-    "approvedOn": "Tue Nov 14, 2023 @ 5:04 PM",
-    "coordinates": [
-      -122.7834,
-      41.8974
-    ]
-  },
-  {
     "name": "MF Machine Piles",
     "date": "November 15, 2023",
     "managingAgency": "UC Berkeley",
@@ -369,7 +356,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 15,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Tue Nov 14, 2023 @ 10:46 AM",
     "coordinates": [
       -116.882932,
@@ -595,19 +582,6 @@
     "coordinates": [
       -122.63596476160072,
       40.661589825600075
-    ]
-  },
-  {
-    "name": "Yellow",
-    "date": "November 15, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 100,
-    "status": "Approved",
-    "approvedOn": "Wed Nov 15, 2023 @ 8:01 AM",
-    "coordinates": [
-      -120.491541,
-      38.827417
     ]
   }
 ]
