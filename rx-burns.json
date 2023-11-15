@@ -18,20 +18,7 @@
     "managingAgency": "Moraga-Orinda Fire District",
     "burnType": "Underburn",
     "acres": 10,
-    "status": "Approved",
-    "approvedOn": "Wed Nov 15, 2023 @ 7:40 AM",
-    "coordinates": [
-      -122.162782,
-      37.834696
-    ]
-  },
-  {
-    "name": "2023-24 Ridgecrest-Piles TEBH",
-    "date": "November 15, 2023",
-    "managingAgency": "Moraga-Orinda Fire District",
-    "burnType": "Hand Pile",
-    "acres": 20,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Wed Nov 15, 2023 @ 7:40 AM",
     "coordinates": [
       -122.162782,
