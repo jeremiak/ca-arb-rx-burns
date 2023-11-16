@@ -96,7 +96,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 48,
-    "status": "Active",
+    "status": "Patrol",
     "approvedOn": "Wed Nov 15, 2023 @ 6:17 PM",
     "coordinates": [
       -123.4589,
@@ -109,7 +109,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 30,
-    "status": "Approved",
+    "status": "Patrol",
     "approvedOn": "Thu Nov 16, 2023 @ 1:53 PM",
     "coordinates": [
       -123.4617,
@@ -122,7 +122,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 7,
-    "status": "Approved",
+    "status": "Patrol",
     "approvedOn": "Thu Nov 16, 2023 @ 1:54 PM",
     "coordinates": [
       -123.452,
@@ -342,8 +342,8 @@
     "date": "November 16, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Active",
+    "acres": 2,
+    "status": "Patrol",
     "approvedOn": "Wed Nov 15, 2023 @ 3:39 PM",
     "coordinates": [
       -117.58049,
