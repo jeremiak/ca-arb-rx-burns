@@ -44,7 +44,7 @@
     "managingAgency": "Moraga-Orinda Fire District",
     "burnType": "Hand Pile",
     "acres": 35,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Thu Nov 16, 2023 @ 7:32 AM",
     "coordinates": [
       -122.162782,
@@ -317,7 +317,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 5,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Wed Nov 15, 2023 @ 3:39 PM",
     "coordinates": [
       -117.58049,
