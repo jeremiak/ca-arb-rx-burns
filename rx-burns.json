@@ -5,7 +5,7 @@
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 1,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Thu Nov 16, 2023 @ 7:45 AM",
     "coordinates": [
       -121.91856369190937,
@@ -278,7 +278,7 @@
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 1,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Mon Nov 13, 2023 @ 1:55 PM",
     "coordinates": [
       -122.5286,
