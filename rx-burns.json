@@ -5,7 +5,7 @@
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 1,
-    "status": "Active",
+    "status": "Patrol",
     "approvedOn": "Wed Nov 15, 2023 @ 7:39 AM",
     "coordinates": [
       -121.91856369190937,
@@ -265,7 +265,7 @@
     "managingAgency": "Novato Fire Protection District",
     "burnType": "Hand Pile",
     "acres": 150,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Thu Nov 16, 2023 @ 7:35 AM",
     "coordinates": [
       -122.529466,
@@ -434,7 +434,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 5,
-    "status": "Approved",
+    "status": "Patrol",
     "approvedOn": "Thu Nov 16, 2023 @ 8:10 AM",
     "coordinates": [
       -120.66239593547344,
