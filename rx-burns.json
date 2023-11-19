@@ -1,12 +1,12 @@
 [
   {
     "name": "2023-Dinkey Properties Piles",
-    "date": "November 18, 2023",
+    "date": "November 19, 2023",
     "managingAgency": "Southern California Edison",
     "burnType": "Hand Pile",
     "acres": 50,
     "status": "Approved",
-    "approvedOn": "Fri Nov 17, 2023 @ 3:19 PM",
+    "approvedOn": "Sat Nov 18, 2023 @ 2:51 PM",
     "coordinates": [
       -119.1,
       37
@@ -14,12 +14,12 @@
   },
   {
     "name": "2023-Shaver Lake Understory",
-    "date": "November 18, 2023",
+    "date": "November 19, 2023",
     "managingAgency": "Southern California Edison",
     "burnType": "Underburn",
     "acres": 400,
     "status": "Approved",
-    "approvedOn": "Fri Nov 17, 2023 @ 3:20 PM",
+    "approvedOn": "Sat Nov 18, 2023 @ 2:50 PM",
     "coordinates": [
       -119.288965,
       37.107236
@@ -27,12 +27,12 @@
   },
   {
     "name": "Carbonizer",
-    "date": "November 18, 2023",
+    "date": "November 19, 2023",
     "managingAgency": "Earth Foundries, Inc.",
     "burnType": "Machine Pile",
-    "acres": 5,
+    "acres": 20,
     "status": "Approved",
-    "approvedOn": "Sat Nov 18, 2023 @ 8:21 AM",
+    "approvedOn": "Sun Nov 19, 2023 @ 7:57 AM",
     "coordinates": [
       -122.102868,
       37.74467
@@ -40,33 +40,20 @@
   },
   {
     "name": "Carbonizer",
-    "date": "November 18, 2023",
+    "date": "November 19, 2023",
     "managingAgency": "Earth Foundries, Inc.",
     "burnType": "Machine Pile",
-    "acres": 14,
+    "acres": 10,
     "status": "Approved",
-    "approvedOn": "Sat Nov 18, 2023 @ 8:22 AM",
+    "approvedOn": "Sat Nov 18, 2023 @ 11:00 AM",
     "coordinates": [
       -122.102868,
       37.74467
     ]
   },
   {
-    "name": "Hensley Tree Farm",
-    "date": "November 18, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Machine Pile",
-    "acres": 1,
-    "status": "Approved",
-    "approvedOn": "Sat Nov 18, 2023 @ 7:44 AM",
-    "coordinates": [
-      -121.317011,
-      39.418971
-    ]
-  },
-  {
     "name": "Unit 1",
-    "date": "November 18, 2023",
+    "date": "November 19, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 1,
