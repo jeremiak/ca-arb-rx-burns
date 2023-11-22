@@ -104,16 +104,16 @@
     ]
   },
   {
-    "name": "Vineyard Trail Piles East",
+    "name": "Vineyard Trail Piles West",
     "date": "November 22, 2023",
     "managingAgency": "California State Parks",
     "burnType": "Hand Pile",
     "acres": 75,
-    "status": "Approved",
-    "approvedOn": "Wed Nov 22, 2023 @ 5:49 AM",
+    "status": "Patrol",
+    "approvedOn": "Tue Nov 21, 2023 @ 5:27 AM",
     "coordinates": [
-      -122.531286,
-      38.548539
+      -122.535185,
+      38.547904
     ]
   },
   {
