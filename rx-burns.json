@@ -1,72 +1,33 @@
 [
   {
     "name": "1A",
-    "date": "November 21, 2023",
+    "date": "November 22, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 1,
     "status": "Approved",
-    "approvedOn": "Mon Nov 20, 2023 @ 1:30 PM",
+    "approvedOn": "Wed Nov 22, 2023 @ 7:30 AM",
     "coordinates": [
       -121.91856369190937,
       40.34087201800909
     ]
   },
   {
-    "name": "2023-24 Ridgecrest-Piles TEBH",
-    "date": "November 21, 2023",
-    "managingAgency": "Moraga-Orinda Fire District",
-    "burnType": "Hand Pile",
-    "acres": 20,
-    "status": "Active",
-    "approvedOn": "Tue Nov 21, 2023 @ 5:27 AM",
-    "coordinates": [
-      -122.162782,
-      37.834696
-    ]
-  },
-  {
-    "name": "2023-Dinkey Properties Piles",
-    "date": "November 21, 2023",
-    "managingAgency": "Southern California Edison",
-    "burnType": "Hand Pile",
-    "acres": 50,
+    "name": "A1",
+    "date": "November 22, 2023",
+    "managingAgency": "Colusa County Resource Conservation District",
+    "burnType": "Machine Pile",
+    "acres": 5,
     "status": "Approved",
-    "approvedOn": "Mon Nov 20, 2023 @ 2:12 PM",
+    "approvedOn": "Tue Nov 21, 2023 @ 11:16 AM",
     "coordinates": [
-      -119.1,
-      37
-    ]
-  },
-  {
-    "name": "2023-Shaver Lake Understory",
-    "date": "November 21, 2023",
-    "managingAgency": "Southern California Edison",
-    "burnType": "Underburn",
-    "acres": 400,
-    "status": "Approved",
-    "approvedOn": "Mon Nov 20, 2023 @ 2:12 PM",
-    "coordinates": [
-      -119.288965,
-      37.107236
-    ]
-  },
-  {
-    "name": "3-WEST Meadow Broadcast",
-    "date": "November 21, 2023",
-    "managingAgency": "United Auburn Indian Community",
-    "burnType": "Underburn",
-    "acres": 3,
-    "status": "Approved",
-    "approvedOn": "Tue Nov 21, 2023 @ 8:02 AM",
-    "coordinates": [
-      -121.01295293771662,
-      39.00885121563278
+      -122.64734,
+      39.23419
     ]
   },
   {
     "name": "Base",
-    "date": "November 21, 2023",
+    "date": "November 22, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 0.2,
@@ -78,73 +39,21 @@
     ]
   },
   {
-    "name": "Block 4",
-    "date": "November 21, 2023",
+    "name": "Block 1",
+    "date": "November 22, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Hand Pile",
     "acres": 10,
     "status": "Approved",
-    "approvedOn": "Tue Nov 21, 2023 @ 5:27 AM",
+    "approvedOn": "Wed Nov 22, 2023 @ 5:49 AM",
     "coordinates": [
-      -122.68262,
-      38.52359
-    ]
-  },
-  {
-    "name": "Carbonizer",
-    "date": "November 21, 2023",
-    "managingAgency": "Earth Foundries, Inc.",
-    "burnType": "Machine Pile",
-    "acres": 10,
-    "status": "Approved",
-    "approvedOn": "Tue Nov 21, 2023 @ 5:27 AM",
-    "coordinates": [
-      -122.102868,
-      37.74467
-    ]
-  },
-  {
-    "name": "Carbonizer",
-    "date": "November 21, 2023",
-    "managingAgency": "Earth Foundries, Inc.",
-    "burnType": "Machine Pile",
-    "acres": 3,
-    "status": "Approved",
-    "approvedOn": "Mon Nov 20, 2023 @ 12:35 PM",
-    "coordinates": [
-      -122.102868,
-      37.74467
-    ]
-  },
-  {
-    "name": "Dixie roadside piles",
-    "date": "November 21, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Tue Nov 21, 2023 @ 7:18 AM",
-    "coordinates": [
-      -121.301927,
-      40.212671
-    ]
-  },
-  {
-    "name": "Dixie roadside piles",
-    "date": "November 21, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Mon Nov 20, 2023 @ 9:31 AM",
-    "coordinates": [
-      -121.301927,
-      40.212671
+      -122.690576,
+      38.526463
     ]
   },
   {
     "name": "Mosquito Piles 2023",
-    "date": "November 21, 2023",
+    "date": "November 22, 2023",
     "managingAgency": "Siller Brothers Inc",
     "burnType": "Machine Pile",
     "acres": 5,
@@ -156,21 +65,8 @@
     ]
   },
   {
-    "name": "Phase 2",
-    "date": "November 21, 2023",
-    "managingAgency": "Higgins Ridge LLC",
-    "burnType": "Machine Pile",
-    "acres": 1,
-    "status": "Approved",
-    "approvedOn": "Tue Nov 21, 2023 @ 8:28 AM",
-    "coordinates": [
-      -121.688799,
-      39.878513
-    ]
-  },
-  {
     "name": "Piles",
-    "date": "November 21, 2023",
+    "date": "November 22, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Unknown",
     "acres": 1,
@@ -183,7 +79,7 @@
   },
   {
     "name": "Shiloh 2021 Piles",
-    "date": "November 21, 2023",
+    "date": "November 22, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Machine Pile",
     "acres": 1,
@@ -196,80 +92,41 @@
   },
   {
     "name": "Spud",
-    "date": "November 21, 2023",
+    "date": "November 22, 2023",
     "managingAgency": "Collins Pine Company",
     "burnType": "Hand Pile",
     "acres": 4,
     "status": "Approved",
-    "approvedOn": "Mon Nov 20, 2023 @ 1:30 PM",
+    "approvedOn": "Wed Nov 22, 2023 @ 7:30 AM",
     "coordinates": [
       -121.501175,
       40.303601
     ]
   },
   {
-    "name": "Unit 1",
-    "date": "November 21, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Hand Pile",
-    "acres": 1,
-    "status": "Approved",
-    "approvedOn": "Tue Nov 21, 2023 @ 9:44 AM",
-    "coordinates": [
-      -122.5286,
-      39.5944
-    ]
-  },
-  {
     "name": "Vineyard Trail Piles East",
-    "date": "November 21, 2023",
+    "date": "November 22, 2023",
     "managingAgency": "California State Parks",
     "burnType": "Hand Pile",
     "acres": 75,
     "status": "Approved",
-    "approvedOn": "Tue Nov 21, 2023 @ 5:27 AM",
+    "approvedOn": "Wed Nov 22, 2023 @ 5:49 AM",
     "coordinates": [
       -122.531286,
       38.548539
     ]
   },
   {
-    "name": "Vineyard Trail Piles West",
-    "date": "November 21, 2023",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 75,
-    "status": "Approved",
-    "approvedOn": "Tue Nov 21, 2023 @ 5:27 AM",
-    "coordinates": [
-      -122.535185,
-      38.547904
-    ]
-  },
-  {
     "name": "Wagon Trail - Unit 2",
-    "date": "November 21, 2023",
+    "date": "November 22, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 0.25,
     "status": "Approved",
-    "approvedOn": "Tue Nov 21, 2023 @ 8:02 AM",
+    "approvedOn": "Tue Nov 21, 2023 @ 2:54 PM",
     "coordinates": [
       -120.93736,
       39.09426
-    ]
-  },
-  {
-    "name": "West Moran/Overlook/Big Tree Creek segment A",
-    "date": "November 21, 2023",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 112,
-    "status": "Approved",
-    "approvedOn": "Fri Nov 17, 2023 @ 2:55 PM",
-    "coordinates": [
-      -120.31643868153772,
-      38.270427758140116
     ]
   }
 ]
