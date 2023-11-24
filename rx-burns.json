@@ -1,7 +1,7 @@
 [
   {
-    "name": "A2a",
-    "date": "November 23, 2023",
+    "name": "A3",
+    "date": "November 24, 2023",
     "managingAgency": "Colusa County Resource Conservation District",
     "burnType": "Machine Pile",
     "acres": 5,
@@ -13,16 +13,16 @@
     ]
   },
   {
-    "name": "PP Forest wide",
-    "date": "November 23, 2023",
+    "name": "Unit 1",
+    "date": "November 24, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
-    "acres": 0.5,
+    "acres": 1,
     "status": "Approved",
-    "approvedOn": "Mon Nov 20, 2023 @ 9:46 AM",
+    "approvedOn": "Tue Nov 21, 2023 @ 9:44 AM",
     "coordinates": [
-      -122.70447912372255,
-      38.833457617145804
+      -122.5286,
+      39.5944
     ]
   }
 ]
