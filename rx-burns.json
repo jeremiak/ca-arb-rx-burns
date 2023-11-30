@@ -212,8 +212,8 @@
     "date": "November 30, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
-    "acres": 100,
-    "status": "Approved",
+    "acres": 89,
+    "status": "Patrol",
     "approvedOn": "Wed Nov 22, 2023 @ 11:21 AM",
     "coordinates": [
       -118.19853299226222,
@@ -369,7 +369,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 5,
-    "status": "Active",
+    "status": "Patrol",
     "approvedOn": "Wed Nov 29, 2023 @ 2:11 PM",
     "coordinates": [
       -118.36116313934326,
@@ -382,7 +382,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 10,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Wed Nov 29, 2023 @ 3:30 PM",
     "coordinates": [
       -122.96288672864124,
