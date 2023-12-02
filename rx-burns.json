@@ -104,19 +104,6 @@
     ]
   },
   {
-    "name": "Unit 1",
-    "date": "December 2, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Approved",
-    "approvedOn": "Mon Nov 27, 2023 @ 4:10 PM",
-    "coordinates": [
-      -122.5286,
-      39.5944
-    ]
-  },
-  {
     "name": "Upper Truckee 97",
     "date": "December 2, 2023",
     "managingAgency": "US Forest Service",
