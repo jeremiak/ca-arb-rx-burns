@@ -351,6 +351,19 @@
     ]
   },
   {
+    "name": "Lakes Basin- Unit 409a",
+    "date": "December 7, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 3.1,
+    "status": "Active",
+    "approvedOn": "Thu Dec 07, 2023 @ 11:23 AM",
+    "coordinates": [
+      -120.615532,
+      39.744618
+    ]
+  },
+  {
     "name": "Lily Lake 1011",
     "date": "December 7, 2023",
     "managingAgency": "US Forest Service",
@@ -551,7 +564,7 @@
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 5,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Tue Dec 05, 2023 @ 8:45 AM",
     "coordinates": [
       -122.5286,
