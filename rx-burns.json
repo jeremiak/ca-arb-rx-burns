@@ -78,6 +78,19 @@
     ]
   },
   {
+    "name": "Bower Gualala TownSMP 22-57 Piles",
+    "date": "December 8, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Machine Pile",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 08, 2023 @ 9:53 AM",
+    "coordinates": [
+      -123.526119,
+      38.770247
+    ]
+  },
+  {
     "name": "Brush",
     "date": "December 8, 2023",
     "managingAgency": "CAL FIRE",
@@ -101,6 +114,19 @@
     "coordinates": [
       -120.50829193460171,
       38.63545064366902
+    ]
+  },
+  {
+    "name": "Captain Roberts Boat Ramp",
+    "date": "December 8, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 2,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 08, 2023 @ 9:49 AM",
+    "coordinates": [
+      -120.1374545153555,
+      39.46925325322407
     ]
   },
   {
@@ -182,6 +208,19 @@
     ]
   },
   {
+    "name": "Historic District Unit",
+    "date": "December 8, 2023",
+    "managingAgency": "California State Parks",
+    "burnType": "Hand Pile",
+    "acres": 0.25,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 08, 2023 @ 10:30 AM",
+    "coordinates": [
+      -120.39785046351419,
+      38.03182647534532
+    ]
+  },
+  {
     "name": "Lily Lake 1011",
     "date": "December 8, 2023",
     "managingAgency": "US Forest Service",
@@ -192,6 +231,19 @@
     "coordinates": [
       -119.960266,
       38.890065
+    ]
+  },
+  {
+    "name": "Manchester Beach KOA SMP 21-60 Piles",
+    "date": "December 8, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Machine Pile",
+    "acres": 2,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 08, 2023 @ 9:54 AM",
+    "coordinates": [
+      -123.69034046779484,
+      38.98455463454095
     ]
   },
   {
@@ -213,7 +265,7 @@
     "managingAgency": "Sonoma County Regional Parks ",
     "burnType": "Hand Pile",
     "acres": 50,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Fri Dec 08, 2023 @ 5:16 AM",
     "coordinates": [
       -122.505516,
@@ -247,19 +299,6 @@
     ]
   },
   {
-    "name": "Unit 1",
-    "date": "December 8, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Approved",
-    "approvedOn": "Tue Dec 05, 2023 @ 8:45 AM",
-    "coordinates": [
-      -122.5286,
-      39.5944
-    ]
-  },
-  {
     "name": "Upper Truckee 97",
     "date": "December 8, 2023",
     "managingAgency": "US Forest Service",
@@ -270,19 +309,6 @@
     "coordinates": [
       -120.014349,
       38.79812
-    ]
-  },
-  {
-    "name": "Willow Creek Road",
-    "date": "December 8, 2023",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 4,
-    "status": "Approved",
-    "approvedOn": "Wed Dec 06, 2023 @ 11:27 AM",
-    "coordinates": [
-      -123.01089334279028,
-      38.42556524247757
     ]
   },
   {
