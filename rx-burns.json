@@ -44,8 +44,21 @@
     "managingAgency": "California Forestry and Excavation",
     "burnType": "Machine Pile",
     "acres": 5,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Fri Dec 08, 2023 @ 2:59 PM",
+    "coordinates": [
+      -120.50829193460171,
+      38.63545064366902
+    ]
+  },
+  {
+    "name": "Caldor ",
+    "date": "December 10, 2023",
+    "managingAgency": "California Forestry and Excavation",
+    "burnType": "Machine Pile",
+    "acres": 5,
+    "status": "Patrol",
+    "approvedOn": "Thu Dec 07, 2023 @ 4:01 PM",
     "coordinates": [
       -120.50829193460171,
       38.63545064366902
