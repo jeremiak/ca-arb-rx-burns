@@ -56,8 +56,8 @@
     "date": "December 15, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Underburn",
-    "acres": 100,
-    "status": "Approved",
+    "acres": 45,
+    "status": "Patrol",
     "approvedOn": "Thu Dec 14, 2023 @ 5:51 PM",
     "coordinates": [
       -118.19853299226222,
@@ -160,8 +160,8 @@
     "date": "December 15, 2023",
     "managingAgency": "UC Berkeley",
     "burnType": "Machine Pile",
-    "acres": 20,
-    "status": "Approved",
+    "acres": 15,
+    "status": "Patrol",
     "approvedOn": "Thu Dec 14, 2023 @ 2:41 PM",
     "coordinates": [
       -120.656571,
