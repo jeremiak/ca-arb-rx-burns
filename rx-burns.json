@@ -117,6 +117,19 @@
     ]
   },
   {
+    "name": "Eureka Landing Piles",
+    "date": "December 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 25,
+    "status": "Patrol",
+    "approvedOn": "Tue Dec 12, 2023 @ 2:34 PM",
+    "coordinates": [
+      -120.69960700935184,
+      39.788870081028755
+    ]
+  },
+  {
     "name": "Kirkelie Lane ",
     "date": "December 15, 2023",
     "managingAgency": "Private Landowner",
@@ -173,8 +186,8 @@
     "date": "December 15, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Machine Pile",
-    "acres": 50,
-    "status": "Active",
+    "acres": 19.3,
+    "status": "Patrol",
     "approvedOn": "Fri Dec 15, 2023 @ 8:26 AM",
     "coordinates": [
       -121.6103,
