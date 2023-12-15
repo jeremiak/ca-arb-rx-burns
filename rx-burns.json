@@ -221,6 +221,19 @@
     ]
   },
   {
+    "name": "Sly Park Recreation Area Management Timber Harvest",
+    "date": "December 15, 2023",
+    "managingAgency": "Unknown",
+    "burnType": "Hand Pile",
+    "acres": 6,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 15, 2023 @ 10:04 AM",
+    "coordinates": [
+      -120.5676,
+      38.725
+    ]
+  },
+  {
     "name": "Unit 1",
     "date": "December 15, 2023",
     "managingAgency": "CAL FIRE",
