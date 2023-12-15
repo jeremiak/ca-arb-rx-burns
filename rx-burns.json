@@ -1,132 +1,262 @@
 [
   {
-    "name": "2023-Dinkey Properties Piles",
-    "date": "December 10, 2023",
-    "managingAgency": "Southern California Edison",
-    "burnType": "Hand Pile",
-    "acres": 50,
+    "name": " Tribal Alliance SMP 23-18 Broadcast",
+    "date": "December 15, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Underburn",
+    "acres": 3,
     "status": "Approved",
-    "approvedOn": "Sat Dec 09, 2023 @ 2:53 PM",
+    "approvedOn": "Fri Dec 15, 2023 @ 9:30 AM",
     "coordinates": [
-      -119.1,
-      37
+      -123.095147,
+      39.333719
     ]
   },
   {
     "name": "2023-Shaver Lake Understory",
-    "date": "December 10, 2023",
+    "date": "December 15, 2023",
     "managingAgency": "Southern California Edison",
     "burnType": "Underburn",
     "acres": 400,
     "status": "Approved",
-    "approvedOn": "Sat Dec 09, 2023 @ 2:54 PM",
+    "approvedOn": "Thu Dec 14, 2023 @ 3:04 PM",
     "coordinates": [
       -119.288965,
       37.107236
     ]
   },
   {
-    "name": "Bower Gualala TownSMP 22-57 Piles",
-    "date": "December 10, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Machine Pile",
-    "acres": 1,
+    "name": "Aldridge VTP 2023",
+    "date": "December 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Unknown",
+    "acres": 20,
     "status": "Approved",
-    "approvedOn": "Fri Dec 08, 2023 @ 9:52 AM",
+    "approvedOn": "Thu Dec 14, 2023 @ 3:51 PM",
     "coordinates": [
-      -123.526119,
-      38.770247
+      -121.94093903074823,
+      40.54838671004703
     ]
   },
   {
-    "name": "Caldor ",
-    "date": "December 10, 2023",
-    "managingAgency": "California Forestry and Excavation",
+    "name": "Amoruso VMP Piles",
+    "date": "December 15, 2023",
+    "managingAgency": "CAL FIRE",
     "burnType": "Machine Pile",
     "acres": 5,
-    "status": "Active",
-    "approvedOn": "Fri Dec 08, 2023 @ 2:59 PM",
+    "status": "Approved",
+    "approvedOn": "Fri Dec 15, 2023 @ 8:02 AM",
     "coordinates": [
-      -120.50829193460171,
-      38.63545064366902
+      -120.77662972575666,
+      38.503883776592325
     ]
   },
   {
-    "name": "Caldor ",
-    "date": "December 10, 2023",
-    "managingAgency": "California Forestry and Excavation",
-    "burnType": "Machine Pile",
-    "acres": 5,
-    "status": "Patrol",
-    "approvedOn": "Thu Dec 07, 2023 @ 4:01 PM",
+    "name": "Artesian BU 4",
+    "date": "December 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 100,
+    "status": "Approved",
+    "approvedOn": "Thu Dec 14, 2023 @ 5:51 PM",
     "coordinates": [
-      -120.50829193460171,
-      38.63545064366902
+      -118.19853299226222,
+      36.83826622358868
+    ]
+  },
+  {
+    "name": "Brush",
+    "date": "December 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 0.5,
+    "status": "Approved",
+    "approvedOn": "Wed Dec 13, 2023 @ 2:35 PM",
+    "coordinates": [
+      -121.747414,
+      37.010155
+    ]
+  },
+  {
+    "name": "Camp Roberts- Unit 12,22",
+    "date": "December 15, 2023",
+    "managingAgency": "Camp Roberts",
+    "burnType": "Underburn",
+    "acres": 8,
+    "status": "Approved",
+    "approvedOn": "Wed Dec 13, 2023 @ 2:36 PM",
+    "coordinates": [
+      -120.736898,
+      35.79249
     ]
   },
   {
     "name": "Cascade 132",
-    "date": "December 10, 2023",
+    "date": "December 15, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
-    "acres": 20,
+    "acres": 35,
     "status": "Approved",
-    "approvedOn": "Fri Dec 08, 2023 @ 2:59 PM",
+    "approvedOn": "Thu Dec 14, 2023 @ 2:41 PM",
     "coordinates": [
       -120.078122,
       38.920959
     ]
   },
   {
-    "name": "H-2 ",
-    "date": "December 10, 2023",
-    "managingAgency": "Firestorm Wildland Fire Suppression Inc",
-    "burnType": "Hand Pile",
-    "acres": 1,
-    "status": "Patrol",
-    "approvedOn": "Fri Dec 08, 2023 @ 8:17 AM",
-    "coordinates": [
-      -122.806278,
-      38.717058
-    ]
-  },
-  {
-    "name": "Lily Lake 11",
-    "date": "December 10, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 19,
-    "status": "Approved",
-    "approvedOn": "Fri Dec 08, 2023 @ 2:59 PM",
-    "coordinates": [
-      -119.962695,
-      38.888735
-    ]
-  },
-  {
-    "name": "Wofford Heights- Wofford Heights Park",
-    "date": "December 10, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 10,
-    "status": "Approved",
-    "approvedOn": "Thu Dec 07, 2023 @ 7:29 AM",
-    "coordinates": [
-      -118.44931355803422,
-      35.70539819873306
-    ]
-  },
-  {
-    "name": "unit 6",
-    "date": "December 10, 2023",
+    "name": "Cloverdale",
+    "date": "December 15, 2023",
     "managingAgency": "Bureau of Land Management",
     "burnType": "Hand Pile",
-    "acres": 15,
+    "acres": 5,
     "status": "Approved",
-    "approvedOn": "Fri Dec 08, 2023 @ 9:17 AM",
+    "approvedOn": "Thu Dec 14, 2023 @ 3:50 PM",
     "coordinates": [
-      -122.89892627672796,
-      40.598188874039764
+      -122.5223,
+      40.50123
+    ]
+  },
+  {
+    "name": "Kirkelie Lane ",
+    "date": "December 15, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Unknown",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Thu Dec 14, 2023 @ 3:57 PM",
+    "coordinates": [
+      -122.36866,
+      40.6735
+    ]
+  },
+  {
+    "name": "Lighthouse 2",
+    "date": "December 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 273,
+    "status": "Approved",
+    "approvedOn": "Wed Dec 13, 2023 @ 3:07 PM",
+    "coordinates": [
+      -120.7711121321534,
+      35.17458575437542
+    ]
+  },
+  {
+    "name": "MF Machine Piles",
+    "date": "December 15, 2023",
+    "managingAgency": "UC Berkeley",
+    "burnType": "Machine Pile",
+    "acres": 20,
+    "status": "Approved",
+    "approvedOn": "Thu Dec 14, 2023 @ 2:41 PM",
+    "coordinates": [
+      -120.656571,
+      38.921578
+    ]
+  },
+  {
+    "name": "Manchester Beach KOA SMP 21-60 Broadcast",
+    "date": "December 15, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Underburn",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Thu Dec 14, 2023 @ 3:30 PM",
+    "coordinates": [
+      -123.693457,
+      38.982955
+    ]
+  },
+  {
+    "name": "North 49 22",
+    "date": "December 15, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 50,
+    "status": "Active",
+    "approvedOn": "Fri Dec 15, 2023 @ 8:26 AM",
+    "coordinates": [
+      -121.6103,
+      40.5886
+    ]
+  },
+  {
+    "name": "Pieta Hunting Club SMP 23-07 Broadcast",
+    "date": "December 15, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Underburn",
+    "acres": 7,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 15, 2023 @ 9:40 AM",
+    "coordinates": [
+      -122.970527,
+      38.890381
+    ]
+  },
+  {
+    "name": "Shamrock SMP 23-41 Broadcast",
+    "date": "December 15, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Underburn",
+    "acres": 33,
+    "status": "Approved",
+    "approvedOn": "Thu Dec 14, 2023 @ 3:51 PM",
+    "coordinates": [
+      -123.43205131847374,
+      39.63160375427435
+    ]
+  },
+  {
+    "name": "Shiloh Piles 2023",
+    "date": "December 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 04, 2023 @ 6:59 AM",
+    "coordinates": [
+      -120.16955320205987,
+      38.071258433754544
+    ]
+  },
+  {
+    "name": "Unit 1",
+    "date": "December 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 5,
+    "status": "Active",
+    "approvedOn": "Fri Dec 08, 2023 @ 4:28 PM",
+    "coordinates": [
+      -122.5286,
+      39.5944
+    ]
+  },
+  {
+    "name": "Unit 1,2,3, & 4",
+    "date": "December 15, 2023",
+    "managingAgency": "Bureau of Land Management",
+    "burnType": "Hand Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 15, 2023 @ 8:30 AM",
+    "coordinates": [
+      -122.91332437478506,
+      40.705848631605726
+    ]
+  },
+  {
+    "name": "Unit 5A",
+    "date": "December 15, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 5,
+    "status": "Active",
+    "approvedOn": "Thu Dec 14, 2023 @ 1:03 PM",
+    "coordinates": [
+      -121.81178368850271,
+      40.34973214223463
     ]
   }
 ]
