@@ -284,5 +284,18 @@
       -121.81178368850271,
       40.34973214223463
     ]
+  },
+  {
+    "name": "Unit A",
+    "date": "December 15, 2023",
+    "managingAgency": "Unknown",
+    "burnType": "Unknown",
+    "acres": 9,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 15, 2023 @ 4:00 PM",
+    "coordinates": [
+      -121.748281,
+      37.029659
+    ]
   }
 ]
