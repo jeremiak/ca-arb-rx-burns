@@ -89,18 +89,5 @@
       -123.43205131847374,
       39.63160375427435
     ]
-  },
-  {
-    "name": "Unit 1",
-    "date": "December 17, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Approved",
-    "approvedOn": "Fri Dec 08, 2023 @ 4:28 PM",
-    "coordinates": [
-      -122.5286,
-      39.5944
-    ]
   }
 ]
