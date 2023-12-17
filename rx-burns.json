@@ -1,20 +1,7 @@
 [
   {
-    "name": "2023-Shaver Lake Understory",
-    "date": "December 16, 2023",
-    "managingAgency": "Southern California Edison",
-    "burnType": "Underburn",
-    "acres": 400,
-    "status": "Approved",
-    "approvedOn": "Fri Dec 15, 2023 @ 2:01 PM",
-    "coordinates": [
-      -119.288965,
-      37.107236
-    ]
-  },
-  {
     "name": "Amoruso VMP Piles",
-    "date": "December 16, 2023",
+    "date": "December 17, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Machine Pile",
     "acres": 5,
@@ -27,10 +14,10 @@
   },
   {
     "name": "B&B Hunting SMP 23-40 Piles",
-    "date": "December 16, 2023",
+    "date": "December 17, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Machine Pile",
-    "acres": 2,
+    "acres": 1,
     "status": "Approved",
     "approvedOn": "Fri Dec 15, 2023 @ 3:42 PM",
     "coordinates": [
@@ -40,12 +27,12 @@
   },
   {
     "name": "Bower Gualala TownSMP 22-57 Piles",
-    "date": "December 16, 2023",
+    "date": "December 17, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Machine Pile",
-    "acres": 3,
+    "acres": 1,
     "status": "Approved",
-    "approvedOn": "Thu Dec 14, 2023 @ 3:17 PM",
+    "approvedOn": "Thu Dec 14, 2023 @ 3:16 PM",
     "coordinates": [
       -123.526119,
       38.770247
@@ -53,7 +40,7 @@
   },
   {
     "name": "Manchester Beach KOA SMP 21-60 Broadcast",
-    "date": "December 16, 2023",
+    "date": "December 17, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Underburn",
     "acres": 1,
@@ -65,34 +52,34 @@
     ]
   },
   {
-    "name": "Mohawk Valley Unit 1",
-    "date": "December 16, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 50,
-    "status": "Active",
-    "approvedOn": "Fri Dec 15, 2023 @ 1:08 PM",
+    "name": "Plot 3",
+    "date": "December 17, 2023",
+    "managingAgency": "Santa Barbara County Fire Department",
+    "burnType": "Underburn",
+    "acres": 49,
+    "status": "Approved",
+    "approvedOn": "Sun Dec 17, 2023 @ 8:32 AM",
     "coordinates": [
-      -120.64341676540154,
-      39.78123491356687
+      -120.08679,
+      34.72124
     ]
   },
   {
-    "name": "Pieta Hunting Club SMP 23-07 Broadcast",
-    "date": "December 16, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Underburn",
-    "acres": 7,
+    "name": "Roadside Thinning and Rucker Fuel Break Hand Piles",
+    "date": "December 17, 2023",
+    "managingAgency": "UC Berkeley",
+    "burnType": "Hand Pile",
+    "acres": 10,
     "status": "Approved",
-    "approvedOn": "Fri Dec 15, 2023 @ 9:40 AM",
+    "approvedOn": "Fri Dec 15, 2023 @ 4:08 PM",
     "coordinates": [
-      -122.970527,
-      38.890381
+      -120.662727,
+      39.357524
     ]
   },
   {
     "name": "Shamrock SMP 23-41 Broadcast",
-    "date": "December 16, 2023",
+    "date": "December 17, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Underburn",
     "acres": 33,
@@ -105,67 +92,15 @@
   },
   {
     "name": "Unit 1",
-    "date": "December 16, 2023",
+    "date": "December 17, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 5,
-    "status": "Active",
+    "status": "Approved",
     "approvedOn": "Fri Dec 08, 2023 @ 4:28 PM",
     "coordinates": [
       -122.5286,
       39.5944
-    ]
-  },
-  {
-    "name": "Unit 3",
-    "date": "December 16, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Underburn",
-    "acres": 20,
-    "status": "Approved",
-    "approvedOn": "Fri Dec 15, 2023 @ 2:44 PM",
-    "coordinates": [
-      -123.26079132466832,
-      38.660047354393406
-    ]
-  },
-  {
-    "name": "Unit A",
-    "date": "December 16, 2023",
-    "managingAgency": "Unknown",
-    "burnType": "Underburn",
-    "acres": 9,
-    "status": "Approved",
-    "approvedOn": "Fri Dec 15, 2023 @ 4:01 PM",
-    "coordinates": [
-      -121.748281,
-      37.029659
-    ]
-  },
-  {
-    "name": "Unit C",
-    "date": "December 16, 2023",
-    "managingAgency": "Unknown",
-    "burnType": "Underburn",
-    "acres": 5.5,
-    "status": "Approved",
-    "approvedOn": "Fri Dec 15, 2023 @ 4:01 PM",
-    "coordinates": [
-      -121.74733,
-      37.0286
-    ]
-  },
-  {
-    "name": "Warrenella Road Fuelbreak",
-    "date": "December 16, 2023",
-    "managingAgency": "Misc Private Organization",
-    "burnType": "Underburn",
-    "acres": 3,
-    "status": "Approved",
-    "approvedOn": "Wed Dec 13, 2023 @ 2:37 PM",
-    "coordinates": [
-      -122.158946,
-      37.114851
     ]
   }
 ]
