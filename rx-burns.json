@@ -1,33 +1,59 @@
 [
   {
-    "name": "Amoruso VMP Piles",
-    "date": "December 17, 2023",
-    "managingAgency": "CAL FIRE",
+    "name": "41011030",
+    "date": "December 18, 2023",
+    "managingAgency": "Red Mtn. Resource LLC",
     "burnType": "Machine Pile",
-    "acres": 5,
+    "acres": 10,
     "status": "Approved",
-    "approvedOn": "Fri Dec 15, 2023 @ 8:02 AM",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:53 AM",
     "coordinates": [
-      -120.77662972575666,
-      38.503883776592325
+      -120.538574,
+      38.649002
     ]
   },
   {
-    "name": "B&B Hunting SMP 23-40 Piles",
-    "date": "December 17, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Machine Pile",
-    "acres": 1,
+    "name": "Aldridge VTP 2023",
+    "date": "December 18, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Unknown",
+    "acres": 20,
     "status": "Approved",
-    "approvedOn": "Fri Dec 15, 2023 @ 3:42 PM",
+    "approvedOn": "Mon Dec 18, 2023 @ 8:26 AM",
     "coordinates": [
-      -122.900239,
-      38.876618
+      -121.94093903074823,
+      40.54838671004703
+    ]
+  },
+  {
+    "name": "Bear Ave Pile Unit",
+    "date": "December 18, 2023",
+    "managingAgency": "California Tahoe Conservancy",
+    "burnType": "Hand Pile",
+    "acres": 11,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:53 AM",
+    "coordinates": [
+      -120.13871,
+      39.061798
+    ]
+  },
+  {
+    "name": "Bear Creek Ranch",
+    "date": "December 18, 2023",
+    "managingAgency": "Jensen Forest Management",
+    "burnType": "Machine Pile",
+    "acres": 50,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:53 AM",
+    "coordinates": [
+      -120.784527,
+      38.879908
     ]
   },
   {
     "name": "Bower Gualala TownSMP 22-57 Piles",
-    "date": "December 17, 2023",
+    "date": "December 18, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Machine Pile",
     "acres": 1,
@@ -39,34 +65,281 @@
     ]
   },
   {
-    "name": "Manchester Beach KOA SMP 21-60 Broadcast",
-    "date": "December 17, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Underburn",
-    "acres": 1,
+    "name": "Carbonizer",
+    "date": "December 18, 2023",
+    "managingAgency": "Earth Foundries, Inc.",
+    "burnType": "Machine Pile",
+    "acres": 8,
     "status": "Approved",
-    "approvedOn": "Thu Dec 14, 2023 @ 3:34 PM",
+    "approvedOn": "Sun Dec 17, 2023 @ 12:22 PM",
     "coordinates": [
-      -123.693457,
-      38.982955
+      -122.102868,
+      37.74467
     ]
   },
   {
-    "name": "Plot 3",
-    "date": "December 17, 2023",
-    "managingAgency": "Santa Barbara County Fire Department",
-    "burnType": "Underburn",
-    "acres": 49,
+    "name": "Carbonizer",
+    "date": "December 18, 2023",
+    "managingAgency": "Earth Foundries, Inc.",
+    "burnType": "Machine Pile",
+    "acres": 16,
     "status": "Approved",
-    "approvedOn": "Sun Dec 17, 2023 @ 8:32 AM",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:17 AM",
     "coordinates": [
-      -120.08679,
-      34.72124
+      -122.102868,
+      37.74467
+    ]
+  },
+  {
+    "name": "Carr-Delta Damnation",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 15,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 8:13 AM",
+    "coordinates": [
+      -122.54669792118405,
+      40.9345248793405
+    ]
+  },
+  {
+    "name": "Cloverdale",
+    "date": "December 18, 2023",
+    "managingAgency": "Bureau of Land Management",
+    "burnType": "Hand Pile",
+    "acres": 107,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 8:23 AM",
+    "coordinates": [
+      -122.5223,
+      40.50123
+    ]
+  },
+  {
+    "name": "Donner Camp",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 0.5,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 8:31 AM",
+    "coordinates": [
+      -120.18,
+      39.376
+    ]
+  },
+  {
+    "name": "Gooseberry TS",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 1175.3,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 1:36 PM",
+    "coordinates": [
+      -119.926353,
+      38.182779
+    ]
+  },
+  {
+    "name": "Harlan Juniper Reduction",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 278,
+    "status": "Approved",
+    "approvedOn": "Sun Dec 17, 2023 @ 4:10 PM",
+    "coordinates": [
+      -121.9709,
+      41.717
+    ]
+  },
+  {
+    "name": "Independence Unit 7",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 143,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:28 AM",
+    "coordinates": [
+      -120.26663,
+      39.475718
+    ]
+  },
+  {
+    "name": "Independence Unit 8",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 20,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:28 AM",
+    "coordinates": [
+      -120.278065,
+      39.475585
+    ]
+  },
+  {
+    "name": "Lakes Basin- Unit 416",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 54.9,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:16 AM",
+    "coordinates": [
+      -120.613988,
+      39.719542
+    ]
+  },
+  {
+    "name": "Lakes Basin- Unit 416a",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 35.3,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:16 AM",
+    "coordinates": [
+      -120.609486,
+      39.722053
+    ]
+  },
+  {
+    "name": "Lakes Basin- Unit 416b",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 8.8,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:16 AM",
+    "coordinates": [
+      -120.61853,
+      39.722859
+    ]
+  },
+  {
+    "name": "Lakes Basin- Unit 418",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 77.1,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:16 AM",
+    "coordinates": [
+      -120.625324,
+      39.723742
+    ]
+  },
+  {
+    "name": "Lakes Basin- Unit 421",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 20.3,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:16 AM",
+    "coordinates": [
+      -120.614638,
+      39.726312
+    ]
+  },
+  {
+    "name": "MRC Mouse Pass SMP 23-23 Broadcast",
+    "date": "December 18, 2023",
+    "managingAgency": "Private Landowner",
+    "burnType": "Underburn",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 11:19 AM",
+    "coordinates": [
+      -123.598611,
+      39.145278
+    ]
+  },
+  {
+    "name": "Mosquito Piles 2023",
+    "date": "December 18, 2023",
+    "managingAgency": "Siller Brothers Inc",
+    "burnType": "Machine Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:53 AM",
+    "coordinates": [
+      -120.7053776,
+      38.928537
+    ]
+  },
+  {
+    "name": "Onion Salvage",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 15,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 8:06 AM",
+    "coordinates": [
+      -122.54418126802904,
+      40.93535365356286
+    ]
+  },
+  {
+    "name": "PML VMP Winter Piles ",
+    "date": "December 18, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 1,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 11, 2023 @ 9:02 AM",
+    "coordinates": [
+      -120.220074,
+      37.866465
+    ]
+  },
+  {
+    "name": "Pine Flats FY 2023",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 2,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:14 AM",
+    "coordinates": [
+      -117.84202040806332,
+      34.318998876064256
+    ]
+  },
+  {
+    "name": "Pinecrest Fuel Break",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 269.1,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 1:36 PM",
+    "coordinates": [
+      -120.017908,
+      38.182067
+    ]
+  },
+  {
+    "name": "Recharge TS Pinecrest",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 390.7,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 1:36 PM",
+    "coordinates": [
+      -119.981497,
+      38.192132
     ]
   },
   {
     "name": "Roadside Thinning and Rucker Fuel Break Hand Piles",
-    "date": "December 17, 2023",
+    "date": "December 18, 2023",
     "managingAgency": "UC Berkeley",
     "burnType": "Hand Pile",
     "acres": 10,
@@ -78,16 +351,133 @@
     ]
   },
   {
-    "name": "Shamrock SMP 23-41 Broadcast",
-    "date": "December 17, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Underburn",
-    "acres": 33,
+    "name": "Rygrass Swale",
+    "date": "December 18, 2023",
+    "managingAgency": "Bureau of Land Management",
+    "burnType": "Hand Pile",
+    "acres": 80,
     "status": "Approved",
-    "approvedOn": "Thu Dec 14, 2023 @ 3:51 PM",
+    "approvedOn": "Mon Dec 18, 2023 @ 7:38 AM",
     "coordinates": [
-      -123.43205131847374,
-      39.63160375427435
+      -120.6,
+      41.339509
+    ]
+  },
+  {
+    "name": "Sagehen Creek Campground",
+    "date": "December 18, 2023",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 0.5,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 8:31 AM",
+    "coordinates": [
+      -120.25759220123291,
+      39.43423742195567
+    ]
+  },
+  {
+    "name": "Shasta Dam",
+    "date": "December 18, 2023",
+    "managingAgency": "California Great Basin, Northern California Area Office",
+    "burnType": "Hand Pile",
+    "acres": 0.5,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 15, 2023 @ 4:01 PM",
+    "coordinates": [
+      -122.41839936252201,
+      40.71568229588444
+    ]
+  },
+  {
+    "name": "Tulloch Unit 9",
+    "date": "December 18, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Underburn",
+    "acres": 350,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 15, 2023 @ 11:52 AM",
+    "coordinates": [
+      -116.732,
+      33.039
+    ]
+  },
+  {
+    "name": "Unit 1",
+    "date": "December 18, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 5,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 11:53 AM",
+    "coordinates": [
+      -122.5286,
+      39.5944
+    ]
+  },
+  {
+    "name": "Unit 1,2,3, & 4",
+    "date": "December 18, 2023",
+    "managingAgency": "Bureau of Land Management",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 8:15 AM",
+    "coordinates": [
+      -122.91332437478506,
+      40.705848631605726
+    ]
+  },
+  {
+    "name": "Wagon Trail - Unit 2",
+    "date": "December 18, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 0.25,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 8:08 AM",
+    "coordinates": [
+      -120.93736,
+      39.09426
+    ]
+  },
+  {
+    "name": "Warrenella Road Fuelbreak",
+    "date": "December 18, 2023",
+    "managingAgency": "Misc Private Organization",
+    "burnType": "Underburn",
+    "acres": 3,
+    "status": "Approved",
+    "approvedOn": "Thu Nov 30, 2023 @ 8:00 AM",
+    "coordinates": [
+      -122.158946,
+      37.114851
+    ]
+  },
+  {
+    "name": "West Moran/Overlook/Big Tree Creek segment A",
+    "date": "December 18, 2023",
+    "managingAgency": "California State Parks",
+    "burnType": "Hand Pile",
+    "acres": 108.75,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 15, 2023 @ 2:59 PM",
+    "coordinates": [
+      -120.31643868153772,
+      38.270427758140116
+    ]
+  },
+  {
+    "name": "Whiskeytown Park wide pile Burn",
+    "date": "December 18, 2023",
+    "managingAgency": "National Park Service",
+    "burnType": "Hand Pile",
+    "acres": 3,
+    "status": "Approved",
+    "approvedOn": "Mon Dec 18, 2023 @ 8:28 AM",
+    "coordinates": [
+      -122.63596476160072,
+      40.661589825600075
     ]
   }
 ]
