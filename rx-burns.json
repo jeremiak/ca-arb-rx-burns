@@ -108,7 +108,7 @@
     "date": "December 18, 2023",
     "managingAgency": "Bureau of Land Management",
     "burnType": "Hand Pile",
-    "acres": 107,
+    "acres": 30,
     "status": "Approved",
     "approvedOn": "Mon Dec 18, 2023 @ 8:23 AM",
     "coordinates": [
@@ -156,25 +156,12 @@
     ]
   },
   {
-    "name": "Independence Unit 7",
-    "date": "December 18, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 143,
-    "status": "Approved",
-    "approvedOn": "Mon Dec 18, 2023 @ 7:28 AM",
-    "coordinates": [
-      -120.26663,
-      39.475718
-    ]
-  },
-  {
     "name": "Independence Unit 8",
     "date": "December 18, 2023",
     "managingAgency": "US Forest Service",
     "burnType": "Machine Pile",
     "acres": 20,
-    "status": "Approved",
+    "status": "Patrol",
     "approvedOn": "Mon Dec 18, 2023 @ 7:28 AM",
     "coordinates": [
       -120.278065,
@@ -304,7 +291,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 2,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Mon Dec 18, 2023 @ 7:14 AM",
     "coordinates": [
       -117.84202040806332,
@@ -473,7 +460,7 @@
     "managingAgency": "National Park Service",
     "burnType": "Hand Pile",
     "acres": 3,
-    "status": "Approved",
+    "status": "Patrol",
     "approvedOn": "Mon Dec 18, 2023 @ 8:28 AM",
     "coordinates": [
       -122.63596476160072,
