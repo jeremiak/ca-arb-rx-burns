@@ -1,111 +1,85 @@
 [
   {
     "name": "41011030",
-    "date": "December 21, 2023",
+    "date": "December 22, 2023",
     "managingAgency": "Red Mtn. Resource LLC",
     "burnType": "Machine Pile",
     "acres": 2,
     "status": "Approved",
-    "approvedOn": "Wed Dec 20, 2023 @ 2:55 PM",
+    "approvedOn": "Thu Dec 21, 2023 @ 4:04 PM",
     "coordinates": [
       -120.538574,
       38.649002
     ]
   },
   {
-    "name": "Alta Sierra Pile Burn Unit",
-    "date": "December 21, 2023",
-    "managingAgency": "Kern County Fire Department",
+    "name": "Block 2",
+    "date": "December 22, 2023",
+    "managingAgency": "Private Landowner",
     "burnType": "Hand Pile",
-    "acres": 2,
+    "acres": 10,
     "status": "Approved",
-    "approvedOn": "Wed Dec 20, 2023 @ 4:52 PM",
+    "approvedOn": "Fri Dec 22, 2023 @ 6:43 AM",
     "coordinates": [
-      -118.55610829513043,
-      35.73551713501244
+      -122.686881,
+      38.523198
     ]
   },
   {
-    "name": "Browns Machine Piles",
-    "date": "December 21, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Underburn",
-    "acres": 15,
-    "status": "Approved",
-    "approvedOn": "Wed Dec 20, 2023 @ 10:43 AM",
-    "coordinates": [
-      -122.886477,
-      40.784246
-    ]
-  },
-  {
-    "name": "Carbonizer",
-    "date": "December 21, 2023",
-    "managingAgency": "Earth Foundries, Inc.",
+    "name": "Caldor ",
+    "date": "December 22, 2023",
+    "managingAgency": "California Forestry and Excavation",
     "burnType": "Machine Pile",
-    "acres": 16,
+    "acres": 5,
     "status": "Approved",
-    "approvedOn": "Thu Dec 21, 2023 @ 7:39 AM",
+    "approvedOn": "Thu Dec 21, 2023 @ 3:29 PM",
     "coordinates": [
-      -122.102868,
-      37.74467
+      -120.50829193460171,
+      38.63545064366902
     ]
   },
   {
     "name": "Carbonizer",
-    "date": "December 21, 2023",
+    "date": "December 22, 2023",
     "managingAgency": "Earth Foundries, Inc.",
     "burnType": "Machine Pile",
     "acres": 8,
     "status": "Approved",
-    "approvedOn": "Wed Dec 20, 2023 @ 11:03 AM",
+    "approvedOn": "Fri Dec 22, 2023 @ 6:43 AM",
     "coordinates": [
       -122.102868,
       37.74467
     ]
   },
   {
-    "name": "Carrington Ranch Section 1 Pile Burn",
-    "date": "December 21, 2023",
-    "managingAgency": "Sonoma County Regional Parks ",
-    "burnType": "Hand Pile",
-    "acres": 0.5,
-    "status": "Active",
-    "approvedOn": "Tue Dec 19, 2023 @ 3:44 PM",
+    "name": "Carbonizer",
+    "date": "December 22, 2023",
+    "managingAgency": "Earth Foundries, Inc.",
+    "burnType": "Machine Pile",
+    "acres": 16,
+    "status": "Approved",
+    "approvedOn": "Fri Dec 22, 2023 @ 6:44 AM",
     "coordinates": [
-      -123.06636305479651,
-      38.366638452186066
+      -122.102868,
+      37.74467
     ]
   },
   {
     "name": "Cloverdale",
-    "date": "December 21, 2023",
+    "date": "December 22, 2023",
     "managingAgency": "Bureau of Land Management",
     "burnType": "Hand Pile",
-    "acres": 30,
+    "acres": 20,
     "status": "Approved",
-    "approvedOn": "Thu Dec 21, 2023 @ 7:59 AM",
+    "approvedOn": "Thu Dec 21, 2023 @ 4:38 PM",
     "coordinates": [
       -122.5223,
       40.50123
     ]
   },
   {
-    "name": "ESPP 02",
-    "date": "December 21, 2023",
-    "managingAgency": "East Bay Municipal Utility District",
-    "burnType": "Hand Pile",
-    "acres": 15,
-    "status": "Approved",
-    "approvedOn": "Thu Dec 21, 2023 @ 7:39 AM",
-    "coordinates": [
-      -122.2162,
-      37.909375
-    ]
-  },
-  {
     "name": "LorORanch / Everson (26 ac Pile Burn)",
-    "date": "December 21, 2023",
+    "date": "December 22, 2023",
     "managingAgency": "Mid Klamath Watershed Council",
     "burnType": "Hand Pile",
     "acres": 13,
@@ -118,12 +92,12 @@
   },
   {
     "name": "PP Ridgetop Unit",
-    "date": "December 21, 2023",
+    "date": "December 22, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
-    "acres": 0.2,
+    "acres": 0.25,
     "status": "Approved",
-    "approvedOn": "Thu Dec 21, 2023 @ 10:25 AM",
+    "approvedOn": "Fri Dec 22, 2023 @ 7:27 AM",
     "coordinates": [
       -122.6967554543924,
       38.824323773845265
@@ -131,10 +105,10 @@
   },
   {
     "name": "Piccolotti Timber Harvest Plan SMP 23-37 Piles",
-    "date": "December 21, 2023",
+    "date": "December 22, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Machine Pile",
-    "acres": 10,
+    "acres": 5,
     "status": "Approved",
     "approvedOn": "Tue Dec 19, 2023 @ 4:07 PM",
     "coordinates": [
@@ -143,34 +117,34 @@
     ]
   },
   {
-    "name": "Shasta Dam",
-    "date": "December 21, 2023",
-    "managingAgency": "California Great Basin, Northern California Area Office",
+    "name": "School ",
+    "date": "December 22, 2023",
+    "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
-    "acres": 0.5,
+    "acres": 1,
     "status": "Approved",
-    "approvedOn": "Thu Dec 21, 2023 @ 7:56 AM",
+    "approvedOn": "Fri Dec 22, 2023 @ 7:27 AM",
     "coordinates": [
-      -122.41839936252201,
-      40.71568229588444
+      -122.72455980220298,
+      38.83153064879018
     ]
   },
   {
-    "name": "Simoni SMP 23-35 Piles",
-    "date": "December 21, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Machine Pile",
+    "name": "Shake Fiddletown piles",
+    "date": "December 22, 2023",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Unknown",
     "acres": 2,
     "status": "Approved",
-    "approvedOn": "Mon Dec 18, 2023 @ 4:53 PM",
+    "approvedOn": "Thu Dec 21, 2023 @ 11:10 AM",
     "coordinates": [
-      -123.64224769288141,
-      38.891243950776925
+      -120.562982,
+      38.71796
     ]
   },
   {
     "name": "Unit 1",
-    "date": "December 21, 2023",
+    "date": "December 22, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 5,
@@ -182,55 +156,16 @@
     ]
   },
   {
-    "name": "Unit 1,2,3, & 4",
-    "date": "December 21, 2023",
-    "managingAgency": "Bureau of Land Management",
-    "burnType": "Hand Pile",
-    "acres": 8,
-    "status": "Approved",
-    "approvedOn": "Wed Dec 20, 2023 @ 10:37 AM",
-    "coordinates": [
-      -122.91332437478506,
-      40.705848631605726
-    ]
-  },
-  {
-    "name": "Unit 40",
-    "date": "December 21, 2023",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Patrol",
-    "approvedOn": "Tue Dec 19, 2023 @ 4:57 PM",
-    "coordinates": [
-      -116.42333,
-      32.846734
-    ]
-  },
-  {
     "name": "Unit 5A",
-    "date": "December 21, 2023",
+    "date": "December 22, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 5,
-    "status": "Active",
-    "approvedOn": "Wed Dec 20, 2023 @ 1:17 PM",
+    "status": "Approved",
+    "approvedOn": "Wed Dec 20, 2023 @ 1:18 PM",
     "coordinates": [
       -121.81178368850271,
       40.34973214223463
-    ]
-  },
-  {
-    "name": "West Moran/Overlook/Big Tree Creek segment A",
-    "date": "December 21, 2023",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 108.75,
-    "status": "Approved",
-    "approvedOn": "Fri Dec 15, 2023 @ 2:59 PM",
-    "coordinates": [
-      -120.31643868153772,
-      38.270427758140116
     ]
   }
 ]
