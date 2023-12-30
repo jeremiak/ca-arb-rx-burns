@@ -1,124 +1,46 @@
 [
   {
-    "name": "2024 Estates Piles",
-    "date": "December 28, 2023",
-    "managingAgency": "Moraga-Orinda Fire District",
-    "burnType": "Hand Pile",
-    "acres": 25,
-    "status": "Approved",
-    "approvedOn": "Thu Dec 28, 2023 @ 6:17 AM",
-    "coordinates": [
-      -122.170885,
-      37.873172
-    ]
-  },
-  {
     "name": "41011030",
-    "date": "December 28, 2023",
+    "date": "December 30, 2023",
     "managingAgency": "Red Mtn. Resource LLC",
     "burnType": "Machine Pile",
     "acres": 2,
     "status": "Approved",
-    "approvedOn": "Thu Dec 28, 2023 @ 7:57 AM",
+    "approvedOn": "Fri Dec 29, 2023 @ 3:01 PM",
     "coordinates": [
       -120.538574,
       38.649002
     ]
   },
   {
-    "name": "Alta Sierra Pile Burn Unit",
-    "date": "December 28, 2023",
-    "managingAgency": "Kern County Fire Department",
+    "name": "Baldwin",
+    "date": "December 30, 2023",
+    "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
-    "acres": 2,
-    "status": "Active",
-    "approvedOn": "Thu Dec 28, 2023 @ 6:35 AM",
-    "coordinates": [
-      -118.55610829513043,
-      35.73551713501244
-    ]
-  },
-  {
-    "name": "Block 1",
-    "date": "December 28, 2023",
-    "managingAgency": "Private Landowner",
-    "burnType": "Hand Pile",
-    "acres": 10,
+    "acres": 95,
     "status": "Approved",
-    "approvedOn": "Thu Dec 28, 2023 @ 6:17 AM",
+    "approvedOn": "Fri Dec 29, 2023 @ 1:01 PM",
     "coordinates": [
-      -122.690576,
-      38.526463
+      -116.7733383178711,
+      34.23181584594751
     ]
   },
   {
     "name": "CFIP 2023",
-    "date": "December 28, 2023",
+    "date": "December 30, 2023",
     "managingAgency": "Private Landowner",
     "burnType": "Machine Pile",
-    "acres": 20,
+    "acres": 1,
     "status": "Approved",
-    "approvedOn": "Wed Dec 27, 2023 @ 9:20 AM",
+    "approvedOn": "Wed Dec 27, 2023 @ 9:21 AM",
     "coordinates": [
       -121.939916,
       40.853225
     ]
   },
   {
-    "name": "Pig Flat Burn Unit Piles",
-    "date": "December 28, 2023",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Thu Dec 28, 2023 @ 6:18 AM",
-    "coordinates": [
-      -122.596711,
-      38.401864
-    ]
-  },
-  {
-    "name": "Raglin",
-    "date": "December 28, 2023",
-    "managingAgency": "Crane Mills",
-    "burnType": "Hand Pile",
-    "acres": 8,
-    "status": "Approved",
-    "approvedOn": "Wed Dec 27, 2023 @ 8:13 AM",
-    "coordinates": [
-      -122.770227,
-      40.009907
-    ]
-  },
-  {
-    "name": "Rancho Arroyo Seco Grasslands",
-    "date": "December 28, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Underburn",
-    "acres": 5,
-    "status": "Approved",
-    "approvedOn": "Thu Dec 28, 2023 @ 7:33 AM",
-    "coordinates": [
-      -120.96889785689797,
-      38.3839215518307
-    ]
-  },
-  {
-    "name": "Shasta Dam",
-    "date": "December 28, 2023",
-    "managingAgency": "California Great Basin, Northern California Area Office",
-    "burnType": "Hand Pile",
-    "acres": 0.5,
-    "status": "Approved",
-    "approvedOn": "Thu Dec 28, 2023 @ 8:07 AM",
-    "coordinates": [
-      -122.41839936252201,
-      40.71568229588444
-    ]
-  },
-  {
     "name": "Unit 1",
-    "date": "December 28, 2023",
+    "date": "December 30, 2023",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 5,
@@ -127,71 +49,6 @@
     "coordinates": [
       -122.5286,
       39.5944
-    ]
-  },
-  {
-    "name": "Unit 1,2,3, & 4",
-    "date": "December 28, 2023",
-    "managingAgency": "Bureau of Land Management",
-    "burnType": "Hand Pile",
-    "acres": 10,
-    "status": "Approved",
-    "approvedOn": "Thu Dec 21, 2023 @ 4:21 PM",
-    "coordinates": [
-      -122.91332437478506,
-      40.705848631605726
-    ]
-  },
-  {
-    "name": "Unit 5A",
-    "date": "December 28, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Approved",
-    "approvedOn": "Wed Dec 27, 2023 @ 8:12 AM",
-    "coordinates": [
-      -121.81178368850271,
-      40.34973214223463
-    ]
-  },
-  {
-    "name": "Upper Lake and Woodcutters Rx Burn Unit Piles",
-    "date": "December 28, 2023",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Thu Dec 28, 2023 @ 6:18 AM",
-    "coordinates": [
-      -122.556515,
-      38.348133
-    ]
-  },
-  {
-    "name": "Wagon Trail - Unit 2",
-    "date": "December 28, 2023",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Hand Pile",
-    "acres": 0.25,
-    "status": "Approved",
-    "approvedOn": "Thu Dec 28, 2023 @ 7:08 AM",
-    "coordinates": [
-      -120.93736,
-      39.09426
-    ]
-  },
-  {
-    "name": "West Moran/Overlook/Big Tree Creek segment A",
-    "date": "December 28, 2023",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 108.75,
-    "status": "Approved",
-    "approvedOn": "Wed Dec 27, 2023 @ 10:42 AM",
-    "coordinates": [
-      -120.31643868153772,
-      38.270427758140116
     ]
   }
 ]
