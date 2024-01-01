@@ -1,15 +1,15 @@
 [
   {
-    "name": "Unit 1",
-    "date": "December 31, 2023",
+    "name": "Pine Acres piles",
+    "date": "January 1, 2024",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
-    "acres": 5,
+    "acres": 3,
     "status": "Approved",
-    "approvedOn": "Fri Dec 22, 2023 @ 9:18 AM",
+    "approvedOn": "Mon Jan 01, 2024 @ 9:17 AM",
     "coordinates": [
-      -122.5286,
-      39.5944
+      -120.64902169226082,
+      38.385915749426275
     ]
   }
 ]
