@@ -1,5 +1,18 @@
 [
   {
+    "name": "41021029",
+    "date": "January 1, 2024",
+    "managingAgency": "Red Mtn. Resource LLC",
+    "burnType": "Machine Pile",
+    "acres": 2,
+    "status": "Active",
+    "approvedOn": "Sun Dec 31, 2023 @ 3:30 PM",
+    "coordinates": [
+      -120.50487,
+      38.650221
+    ]
+  },
+  {
     "name": "Pine Acres piles",
     "date": "January 1, 2024",
     "managingAgency": "CAL FIRE",
