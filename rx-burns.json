@@ -382,7 +382,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Landing Pile",
     "acres": 10,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Fri Jan 05, 2024 @ 3:57 PM",
     "coordinates": [
       -123.4577,
@@ -408,7 +408,7 @@
     "managingAgency": "Nevada Environmental Consulting LLC.",
     "burnType": "Machine Pile",
     "acres": 20,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Fri Jan 05, 2024 @ 4:04 PM",
     "coordinates": [
       -119.805234,
