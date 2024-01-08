@@ -1,38 +1,38 @@
 [
   {
-    "name": "1N17M",
-    "date": "January 6, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 26,
+    "name": "1A",
+    "date": "January 8, 2024",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 1,
     "status": "Approved",
-    "approvedOn": "Fri Jan 05, 2024 @ 8:27 AM",
+    "approvedOn": "Mon Jan 08, 2024 @ 9:41 AM",
     "coordinates": [
-      -120.054,
-      37.892
+      -121.91856369190937,
+      40.34087201800909
     ]
   },
   {
-    "name": "1N18M",
-    "date": "January 6, 2024",
+    "name": "1S16M",
+    "date": "January 8, 2024",
     "managingAgency": "US Forest Service",
     "burnType": "Machine Pile",
-    "acres": 619,
+    "acres": 142,
     "status": "Approved",
-    "approvedOn": "Fri Jan 05, 2024 @ 8:27 AM",
+    "approvedOn": "Fri Jan 05, 2024 @ 2:48 PM",
     "coordinates": [
-      -119.992,
-      37.9
+      -120.182,
+      37.81
     ]
   },
   {
     "name": "1S17M",
-    "date": "January 6, 2024",
+    "date": "January 8, 2024",
     "managingAgency": "US Forest Service",
     "burnType": "Machine Pile",
-    "acres": 218,
+    "acres": 31,
     "status": "Approved",
-    "approvedOn": "Fri Jan 05, 2024 @ 8:27 AM",
+    "approvedOn": "Fri Jan 05, 2024 @ 2:48 PM",
     "coordinates": [
       -120.083,
       37.822
@@ -40,25 +40,116 @@
   },
   {
     "name": "1S18M",
-    "date": "January 6, 2024",
+    "date": "January 8, 2024",
     "managingAgency": "US Forest Service",
     "burnType": "Machine Pile",
-    "acres": 499,
+    "acres": 440,
     "status": "Approved",
-    "approvedOn": "Fri Jan 05, 2024 @ 8:27 AM",
+    "approvedOn": "Fri Jan 05, 2024 @ 2:48 PM",
     "coordinates": [
       -119.977,
       37.835
     ]
   },
   {
+    "name": "1S19M",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 371,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 2:48 PM",
+    "coordinates": [
+      -119.883,
+      37.857
+    ]
+  },
+  {
+    "name": "Administrative Site - Keenwild",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Active",
+    "approvedOn": "Mon Jan 08, 2024 @ 7:50 AM",
+    "coordinates": [
+      -116.71756982803345,
+      33.70774058936707
+    ]
+  },
+  {
+    "name": "BCCER Prop Management ",
+    "date": "January 8, 2024",
+    "managingAgency": "CSU Chico Research Foundation",
+    "burnType": "Hand Pile",
+    "acres": 0.25,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 7:16 AM",
+    "coordinates": [
+      -121.739287,
+      39.742273
+    ]
+  },
+  {
+    "name": "Boondocks",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 48,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:30 PM",
+    "coordinates": [
+      -121.77994,
+      40.2304
+    ]
+  },
+  {
+    "name": "Burn Block C, Site 1",
+    "date": "January 8, 2024",
+    "managingAgency": "Marin Municipal Water District ",
+    "burnType": "Hand Pile",
+    "acres": 25,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 8:03 AM",
+    "coordinates": [
+      -122.6016,
+      37.968896
+    ]
+  },
+  {
+    "name": "Butte Creek Pile Unit",
+    "date": "January 8, 2024",
+    "managingAgency": "CSU Chico Research Foundation",
+    "burnType": "Hand Pile",
+    "acres": 0.25,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 7:16 AM",
+    "coordinates": [
+      -121.66786544028565,
+      39.76039214576117
+    ]
+  },
+  {
+    "name": "CTS SPR Hand Burn",
+    "date": "January 8, 2024",
+    "managingAgency": "Private Landowner",
+    "burnType": "Hand Pile",
+    "acres": 3,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 2:40 PM",
+    "coordinates": [
+      -122.221922,
+      37.04307
+    ]
+  },
+  {
     "name": "Carbonizer",
-    "date": "January 6, 2024",
+    "date": "January 8, 2024",
     "managingAgency": "Earth Foundries, Inc.",
     "burnType": "Machine Pile",
     "acres": 8,
     "status": "Approved",
-    "approvedOn": "Sat Jan 06, 2024 @ 7:15 AM",
+    "approvedOn": "Mon Jan 08, 2024 @ 8:02 AM",
     "coordinates": [
       -122.102868,
       37.74467
@@ -66,12 +157,12 @@
   },
   {
     "name": "Carbonizer",
-    "date": "January 6, 2024",
+    "date": "January 8, 2024",
     "managingAgency": "Earth Foundries, Inc.",
     "burnType": "Machine Pile",
     "acres": 16,
     "status": "Approved",
-    "approvedOn": "Sat Jan 06, 2024 @ 7:15 AM",
+    "approvedOn": "Mon Jan 08, 2024 @ 8:02 AM",
     "coordinates": [
       -122.102868,
       37.74467
@@ -79,7 +170,7 @@
   },
   {
     "name": "Castle Rock SP Burn Piles",
-    "date": "January 6, 2024",
+    "date": "January 8, 2024",
     "managingAgency": "California State Parks",
     "burnType": "Hand Pile",
     "acres": 5,
@@ -91,42 +182,302 @@
     ]
   },
   {
-    "name": "Cranston Reforestation ",
-    "date": "January 6, 2024",
+    "name": "EFS Leap ",
+    "date": "January 8, 2024",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
-    "acres": 12,
-    "status": "Patrol",
-    "approvedOn": "Fri Jan 05, 2024 @ 1:40 PM",
+    "acres": 24,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:12 PM",
     "coordinates": [
-      -116.682302,
-      33.715395
+      -122.815,
+      41.64306
     ]
   },
   {
-    "name": "Fallen Leaf HT 116",
-    "date": "January 6, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Unknown",
-    "acres": 52.5,
+    "name": "El Portal Woodlot ",
+    "date": "January 8, 2024",
+    "managingAgency": "National Park Service",
+    "burnType": "Machine Pile",
+    "acres": 1,
     "status": "Approved",
-    "approvedOn": "Fri Jan 05, 2024 @ 3:38 PM",
+    "approvedOn": "Mon Jan 08, 2024 @ 8:47 AM",
     "coordinates": [
-      -120.048438,
-      38.896803
+      -119.795317,
+      37.673534
+    ]
+  },
+  {
+    "name": "Garden Point",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 8:05 AM",
+    "coordinates": [
+      -121.11893673805028,
+      39.440278673146786
+    ]
+  },
+  {
+    "name": "Gold Fire",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 223,
+    "status": "Approved",
+    "approvedOn": "Sun Jan 07, 2024 @ 9:35 PM",
+    "coordinates": [
+      -120.824072,
+      41.055467
+    ]
+  },
+  {
+    "name": "Harlan FMZ Hand Piles",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 57,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:11 PM",
+    "coordinates": [
+      -121.9976,
+      41.6482
+    ]
+  },
+  {
+    "name": "Harlan Juniper Reduction",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 250,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:11 PM",
+    "coordinates": [
+      -121.9709,
+      41.717
+    ]
+  },
+  {
+    "name": "Laguna Place Units 57, 58, 59",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 92,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 7:40 AM",
+    "coordinates": [
+      -116.429,
+      32.87
+    ]
+  },
+  {
+    "name": "Lotts",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Machine Pile",
+    "acres": 50,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 7:16 AM",
+    "coordinates": [
+      -121.540164,
+      40.060609
+    ]
+  },
+  {
+    "name": "M9",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 50,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:06 PM",
+    "coordinates": [
+      -119.4956034219593,
+      38.45900045390807
+    ]
+  },
+  {
+    "name": "North Ramona East (Pamo-Sutherland)",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 12,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 7:40 AM",
+    "coordinates": [
+      -116.882932,
+      33.095331
+    ]
+  },
+  {
+    "name": "PML VMP Winter Piles ",
+    "date": "January 8, 2024",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 8:02 AM",
+    "coordinates": [
+      -120.220074,
+      37.866465
+    ]
+  },
+  {
+    "name": "Petersburg Pines Landing Piles",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Hand Pile",
+    "acres": 39,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:11 PM",
+    "coordinates": [
+      -123.1138821217765,
+      41.11264748839251
+    ]
+  },
+  {
+    "name": "Phase 2",
+    "date": "January 8, 2024",
+    "managingAgency": "Higgins Ridge LLC",
+    "burnType": "Machine Pile",
+    "acres": 0.5,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 7:16 AM",
+    "coordinates": [
+      -121.688799,
+      39.878513
+    ]
+  },
+  {
+    "name": "Pleasant Valley",
+    "date": "January 8, 2024",
+    "managingAgency": "Nevada Environmental Consulting LLC.",
+    "burnType": "Machine Pile",
+    "acres": 25,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:03 PM",
+    "coordinates": [
+      -119.814096,
+      38.657022
+    ]
+  },
+  {
+    "name": "Shasta Dam",
+    "date": "January 8, 2024",
+    "managingAgency": "California Great Basin, Northern California Area Office",
+    "burnType": "Hand Pile",
+    "acres": 0.5,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 7:59 AM",
+    "coordinates": [
+      -122.41839936252201,
+      40.71568229588444
+    ]
+  },
+  {
+    "name": "TPFHRS Denny #8",
+    "date": "January 8, 2024",
+    "managingAgency": "US Forest Service",
+    "burnType": "Landing Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 3:57 PM",
+    "coordinates": [
+      -123.4577,
+      40.88431
+    ]
+  },
+  {
+    "name": "Tehachapi Mountain Park",
+    "date": "January 8, 2024",
+    "managingAgency": "Kern County Fire Department",
+    "burnType": "Hand Pile",
+    "acres": 2,
+    "status": "Active",
+    "approvedOn": "Mon Jan 08, 2024 @ 8:08 AM",
+    "coordinates": [
+      -118.484522,
+      35.063673
+    ]
+  },
+  {
+    "name": "Thornburg",
+    "date": "January 8, 2024",
+    "managingAgency": "Nevada Environmental Consulting LLC.",
+    "burnType": "Machine Pile",
+    "acres": 20,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:04 PM",
+    "coordinates": [
+      -119.805234,
+      38.684623
     ]
   },
   {
     "name": "Unit 1",
-    "date": "January 6, 2024",
+    "date": "January 8, 2024",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 5,
     "status": "Active",
-    "approvedOn": "Fri Jan 05, 2024 @ 7:58 AM",
+    "approvedOn": "Mon Jan 08, 2024 @ 8:07 AM",
     "coordinates": [
       -122.5286,
       39.5944
+    ]
+  },
+  {
+    "name": "Unit 5A",
+    "date": "January 8, 2024",
+    "managingAgency": "CAL FIRE",
+    "burnType": "Hand Pile",
+    "acres": 10,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:30 PM",
+    "coordinates": [
+      -121.81178368850271,
+      40.34973214223463
+    ]
+  },
+  {
+    "name": "Warrenella Road Fuelbreak",
+    "date": "January 8, 2024",
+    "managingAgency": "Misc Private Organization",
+    "burnType": "Underburn",
+    "acres": 3,
+    "status": "Approved",
+    "approvedOn": "Tue Jan 02, 2024 @ 2:24 PM",
+    "coordinates": [
+      -122.158946,
+      37.114851
+    ]
+  },
+  {
+    "name": "Wawona ",
+    "date": "January 8, 2024",
+    "managingAgency": "National Park Service",
+    "burnType": "Machine Pile",
+    "acres": 50,
+    "status": "Approved",
+    "approvedOn": "Fri Jan 05, 2024 @ 4:52 PM",
+    "coordinates": [
+      -119.6339989,
+      37.53932605
+    ]
+  },
+  {
+    "name": "Whiskeytown Park wide pile Burn",
+    "date": "January 8, 2024",
+    "managingAgency": "National Park Service",
+    "burnType": "Hand Pile",
+    "acres": 2,
+    "status": "Approved",
+    "approvedOn": "Mon Jan 08, 2024 @ 9:12 AM",
+    "coordinates": [
+      -122.63596476160072,
+      40.661589825600075
     ]
   }
 ]
