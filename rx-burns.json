@@ -5,7 +5,7 @@
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 1,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Mon Jan 08, 2024 @ 9:41 AM",
     "coordinates": [
       -121.91856369190937,
@@ -304,7 +304,7 @@
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
     "acres": 12,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Mon Jan 08, 2024 @ 7:40 AM",
     "coordinates": [
       -116.882932,
