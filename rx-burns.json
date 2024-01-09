@@ -278,24 +278,11 @@
     "managingAgency": "US Forest Service",
     "burnType": "Landing Pile",
     "acres": 25,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Mon Jan 08, 2024 @ 1:24 PM",
     "coordinates": [
       -123.21,
       40.537
-    ]
-  },
-  {
-    "name": "Laguna Place Units 57, 58, 59",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Tue Jan 09, 2024 @ 7:57 AM",
-    "coordinates": [
-      -116.429,
-      32.87
     ]
   },
   {
@@ -304,7 +291,7 @@
     "managingAgency": "Kern County Fire Department",
     "burnType": "Hand Pile",
     "acres": 5,
-    "status": "Approved",
+    "status": "Active",
     "approvedOn": "Tue Jan 09, 2024 @ 10:29 AM",
     "coordinates": [
       -118.48540842533112,
@@ -543,19 +530,6 @@
     "coordinates": [
       -122.158946,
       37.114851
-    ]
-  },
-  {
-    "name": "Wawona ",
-    "date": "January 9, 2024",
-    "managingAgency": "National Park Service",
-    "burnType": "Machine Pile",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Fri Jan 05, 2024 @ 4:52 PM",
-    "coordinates": [
-      -119.6339989,
-      37.53932605
     ]
   },
   {
