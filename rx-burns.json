@@ -50,18 +50,5 @@
       -119.49630117582703,
       38.44175830360581
     ]
-  },
-  {
-    "name": "Unit 1",
-    "date": "January 13, 2024",
-    "managingAgency": "CAL FIRE",
-    "burnType": "Hand Pile",
-    "acres": 1,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 3:41 PM",
-    "coordinates": [
-      -122.5286,
-      39.5944
-    ]
   }
 ]
