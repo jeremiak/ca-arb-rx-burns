@@ -1,561 +1,67 @@
 [
   {
-    "name": "1S16M",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 142,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 8:02 AM",
-    "coordinates": [
-      -120.182,
-      37.81
-    ]
-  },
-  {
-    "name": "1S17M",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 31,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 8:03 AM",
-    "coordinates": [
-      -120.083,
-      37.822
-    ]
-  },
-  {
-    "name": "1S18M",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 440,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 8:03 AM",
-    "coordinates": [
-      -119.977,
-      37.835
-    ]
-  },
-  {
-    "name": "1S19M",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 371,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 8:03 AM",
-    "coordinates": [
-      -119.883,
-      37.857
-    ]
-  },
-  {
-    "name": "Antelope 49 Fire Salvage",
-    "date": "January 9, 2024",
+    "name": "FY23 Sherwin T6 Phase 2",
+    "date": "January 13, 2024",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
-    "acres": 98,
+    "acres": 120,
     "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 1:37 PM",
+    "approvedOn": "Thu Jan 11, 2024 @ 4:06 PM",
     "coordinates": [
-      -121.59424,
-      41.662354
+      -118.93102634287044,
+      37.626163091111515
     ]
   },
   {
-    "name": "Ash Hand Piles",
-    "date": "January 9, 2024",
+    "name": "FY24 Sherwin T6 Phase 3",
+    "date": "January 13, 2024",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
-    "acres": 233,
+    "acres": 38,
     "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 1:23 PM",
+    "approvedOn": "Thu Jan 11, 2024 @ 4:06 PM",
     "coordinates": [
-      -120.799868,
-      41.134217
+      -118.93675142483826,
+      37.63223736497604
     ]
   },
   {
-    "name": "BCCER Prop Management ",
-    "date": "January 9, 2024",
-    "managingAgency": "CSU Chico Research Foundation",
-    "burnType": "Hand Pile",
-    "acres": 0.25,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 8:06 AM",
-    "coordinates": [
-      -121.739287,
-      39.742273
-    ]
-  },
-  {
-    "name": "Boondocks",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 48,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 3:41 PM",
-    "coordinates": [
-      -121.77994,
-      40.2304
-    ]
-  },
-  {
-    "name": "Butte Creek Pile Unit",
-    "date": "January 9, 2024",
-    "managingAgency": "CSU Chico Research Foundation",
-    "burnType": "Hand Pile",
-    "acres": 0.25,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 8:07 AM",
-    "coordinates": [
-      -121.66786544028565,
-      39.76039214576117
-    ]
-  },
-  {
-    "name": "Carbonizer",
-    "date": "January 9, 2024",
-    "managingAgency": "Earth Foundries, Inc.",
-    "burnType": "Machine Pile",
-    "acres": 16,
-    "status": "Approved",
-    "approvedOn": "Tue Jan 09, 2024 @ 5:24 AM",
-    "coordinates": [
-      -122.102868,
-      37.74467
-    ]
-  },
-  {
-    "name": "Carbonizer",
-    "date": "January 9, 2024",
-    "managingAgency": "Earth Foundries, Inc.",
-    "burnType": "Machine Pile",
-    "acres": 8,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 12:24 PM",
-    "coordinates": [
-      -122.102868,
-      37.74467
-    ]
-  },
-  {
-    "name": "Carman",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 242,
-    "status": "Active",
-    "approvedOn": "Mon Jan 08, 2024 @ 4:29 PM",
-    "coordinates": [
-      -120.436713,
-      39.739305
-    ]
-  },
-  {
-    "name": "Castle Rock SP Burn Piles",
-    "date": "January 9, 2024",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Approved",
-    "approvedOn": "Tue Jan 09, 2024 @ 8:00 AM",
-    "coordinates": [
-      -122.105804,
-      37.231762
-    ]
-  },
-  {
-    "name": "Cedar Ridge Unit 208A",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 1032.7,
-    "status": "Active",
-    "approvedOn": "Tue Jan 02, 2024 @ 11:02 AM",
-    "coordinates": [
-      -120.2672,
-      38.0714
-    ]
-  },
-  {
-    "name": "Foresta - Woodlot",
-    "date": "January 9, 2024",
-    "managingAgency": "National Park Service",
-    "burnType": "Machine Pile",
-    "acres": 1,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 8:52 AM",
-    "coordinates": [
-      -119.736351,
-      37.703097
-    ]
-  },
-  {
-    "name": "Ganser Bar WC",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
+    "name": "H-2 ",
+    "date": "January 13, 2024",
+    "managingAgency": "Firestorm Wildland Fire Suppression Inc",
     "burnType": "Hand Pile",
     "acres": 0.5,
     "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 4:29 PM",
+    "approvedOn": "Wed Jan 10, 2024 @ 1:37 PM",
     "coordinates": [
-      -121.22,
-      40.02
+      -122.806278,
+      38.717058
     ]
   },
   {
-    "name": "Garden Point",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 10,
-    "status": "Patrol",
-    "approvedOn": "Mon Jan 08, 2024 @ 8:05 AM",
-    "coordinates": [
-      -121.11893673805028,
-      39.440278673146786
-    ]
-  },
-  {
-    "name": "Greenville CG",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 0.5,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 4:29 PM",
-    "coordinates": [
-      -120.95,
-      40.16
-    ]
-  },
-  {
-    "name": "Harlan Juniper Reduction",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 200,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 3:34 PM",
-    "coordinates": [
-      -121.9709,
-      41.717
-    ]
-  },
-  {
-    "name": "IRSC Quarry Road",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 12,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 4:28 PM",
-    "coordinates": [
-      -120.96413335966697,
-      40.04273133604335
-    ]
-  },
-  {
-    "name": "Joseph South Brush Disposal",
-    "date": "January 9, 2024",
+    "name": "M7",
+    "date": "January 13, 2024",
     "managingAgency": "US Forest Service",
     "burnType": "Hand Pile",
-    "acres": 15,
+    "acres": 30,
     "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 8:31 AM",
+    "approvedOn": "Thu Jan 11, 2024 @ 4:13 PM",
     "coordinates": [
-      -120.33951873948678,
-      41.610979516710096
-    ]
-  },
-  {
-    "name": "KELLOGG 2",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Landing Pile",
-    "acres": 25,
-    "status": "Active",
-    "approvedOn": "Mon Jan 08, 2024 @ 1:24 PM",
-    "coordinates": [
-      -123.21,
-      40.537
-    ]
-  },
-  {
-    "name": "Lake Isabella",
-    "date": "January 9, 2024",
-    "managingAgency": "Kern County Fire Department",
-    "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Active",
-    "approvedOn": "Tue Jan 09, 2024 @ 10:29 AM",
-    "coordinates": [
-      -118.48540842533112,
-      35.60380091434699
-    ]
-  },
-  {
-    "name": "Loganville",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 4,
-    "status": "Active",
-    "approvedOn": "Mon Jan 08, 2024 @ 4:29 PM",
-    "coordinates": [
-      -120.66108226776123,
-      39.56464344273239
-    ]
-  },
-  {
-    "name": "Lotts",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Machine Pile",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 3:52 PM",
-    "coordinates": [
-      -121.540164,
-      40.060609
-    ]
-  },
-  {
-    "name": "M9",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 3:25 PM",
-    "coordinates": [
-      -119.4956034219593,
-      38.45900045390807
-    ]
-  },
-  {
-    "name": "Marsh Trail Piles",
-    "date": "January 9, 2024",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 75,
-    "status": "Approved",
-    "approvedOn": "Tue Jan 09, 2024 @ 5:23 AM",
-    "coordinates": [
-      -122.597752,
-      38.407031
-    ]
-  },
-  {
-    "name": "Mt. Hough DO",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 20,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 4:29 PM",
-    "coordinates": [
-      -120.94,
-      39.98
-    ]
-  },
-  {
-    "name": "North Ramona East (Pamo-Sutherland)",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 3,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 3:33 PM",
-    "coordinates": [
-      -116.882932,
-      33.095331
-    ]
-  },
-  {
-    "name": "Palomar Mt. State Park, Doane Valley Pile Burn Project A-B, 2024",
-    "date": "January 9, 2024",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 59,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 3:33 PM",
-    "coordinates": [
-      -116.89826295867206,
-      33.34244258693762
-    ]
-  },
-  {
-    "name": "Petersburg Pines Landing Piles",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 39,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 3:34 PM",
-    "coordinates": [
-      -123.1138821217765,
-      41.11264748839251
-    ]
-  },
-  {
-    "name": "Phase 2",
-    "date": "January 9, 2024",
-    "managingAgency": "Higgins Ridge LLC",
-    "burnType": "Machine Pile",
-    "acres": 0.5,
-    "status": "Approved",
-    "approvedOn": "Tue Jan 09, 2024 @ 7:31 AM",
-    "coordinates": [
-      -121.688799,
-      39.878513
-    ]
-  },
-  {
-    "name": "Plum 21",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 82,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 4:32 PM",
-    "coordinates": [
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Reds FH 4",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 48.1,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 3:20 PM",
-    "coordinates": [
-      -119.04838923358415,
-      37.65070508905691
-    ]
-  },
-  {
-    "name": "Rock Fence Stew",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Hand Pile",
-    "acres": 10,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 4:25 PM",
-    "coordinates": [
-      -122.6709315793457,
-      41.35622282219707
-    ]
-  },
-  {
-    "name": "SV - WUI Fuel Break West",
-    "date": "January 9, 2024",
-    "managingAgency": "Sonoma County Regional Parks ",
-    "burnType": "Hand Pile",
-    "acres": 50,
-    "status": "Approved",
-    "approvedOn": "Tue Jan 09, 2024 @ 5:23 AM",
-    "coordinates": [
-      -122.520019,
-      38.363043
-    ]
-  },
-  {
-    "name": "Shasta Dam",
-    "date": "January 9, 2024",
-    "managingAgency": "California Great Basin, Northern California Area Office",
-    "burnType": "Hand Pile",
-    "acres": 0.5,
-    "status": "Approved",
-    "approvedOn": "Mon Jan 08, 2024 @ 7:59 AM",
-    "coordinates": [
-      -122.41839936252201,
-      40.71568229588444
-    ]
-  },
-  {
-    "name": "TPFHRS Denny #8",
-    "date": "January 9, 2024",
-    "managingAgency": "US Forest Service",
-    "burnType": "Landing Pile",
-    "acres": 10,
-    "status": "Active",
-    "approvedOn": "Mon Jan 08, 2024 @ 2:42 PM",
-    "coordinates": [
-      -123.4577,
-      40.88431
-    ]
-  },
-  {
-    "name": "Tehachapi Mountain Park",
-    "date": "January 9, 2024",
-    "managingAgency": "Kern County Fire Department",
-    "burnType": "Hand Pile",
-    "acres": 2,
-    "status": "Active",
-    "approvedOn": "Mon Jan 08, 2024 @ 2:43 PM",
-    "coordinates": [
-      -118.484522,
-      35.063673
+      -119.49630117582703,
+      38.44175830360581
     ]
   },
   {
     "name": "Unit 1",
-    "date": "January 9, 2024",
+    "date": "January 13, 2024",
     "managingAgency": "CAL FIRE",
     "burnType": "Hand Pile",
     "acres": 1,
-    "status": "Active",
+    "status": "Approved",
     "approvedOn": "Mon Jan 08, 2024 @ 3:41 PM",
     "coordinates": [
       -122.5286,
       39.5944
-    ]
-  },
-  {
-    "name": "Warrenella Road Fuelbreak",
-    "date": "January 9, 2024",
-    "managingAgency": "Misc Private Organization",
-    "burnType": "Underburn",
-    "acres": 3,
-    "status": "Approved",
-    "approvedOn": "Tue Jan 02, 2024 @ 2:24 PM",
-    "coordinates": [
-      -122.158946,
-      37.114851
-    ]
-  },
-  {
-    "name": "West Moran/Overlook/Big Tree Creek segment A",
-    "date": "January 9, 2024",
-    "managingAgency": "California State Parks",
-    "burnType": "Hand Pile",
-    "acres": 108.75,
-    "status": "Approved",
-    "approvedOn": "Tue Jan 09, 2024 @ 8:40 AM",
-    "coordinates": [
-      -120.31643868153772,
-      38.270427758140116
-    ]
-  },
-  {
-    "name": "Whiskeytown Park wide pile Burn",
-    "date": "January 9, 2024",
-    "managingAgency": "National Park Service",
-    "burnType": "Hand Pile",
-    "acres": 5,
-    "status": "Approved",
-    "approvedOn": "Tue Jan 09, 2024 @ 8:16 AM",
-    "coordinates": [
-      -122.63596476160072,
-      40.661589825600075
     ]
   }
 ]
